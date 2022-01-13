@@ -12,3 +12,4 @@ CHANGE LOG:
 - Kaufe und verwalte deine eigene Tankstelle
 - Persöhnliches Lager hinzugefügt
 - Fraklager hinzugefügt
+- Shops hinzugefügt
