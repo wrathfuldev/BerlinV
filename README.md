@@ -4,6 +4,9 @@ CHANGE LOG:
 
 **14.01.2021**
 
+-  Donator Shop hinzugefügt
+    - https://futureworldrp.tebex.io/category/1982979
+
 Job Änderungen:
 
 - FIB hat nun Waffenkammer
