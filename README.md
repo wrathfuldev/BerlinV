@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **14.01.2021**
 
+Änderungen Garage:
+
+- Garage bei Paleto ist alles nebeneinander nicht versetzt
+
 
 Neue Items:
 
