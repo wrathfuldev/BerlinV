@@ -4,6 +4,12 @@ CHANGE LOG:
 
 **14.01.2021**
 
+Job Änderungen:
+
+- FIB hat nun Waffenkammer
+- FIB hat nun eigenen Helikopter
+- Polizei hat Helikopter Kameras mit Nachsicht, Wärmebild und normale Kamera
+
 Änderungen Garage:
 
 - Garage bei Paleto ist alles nebeneinander nicht versetzt
