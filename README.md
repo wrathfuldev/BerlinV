@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**14.01.2021**
+
+
+Neue Items:
+
+- Fallschirm Hinzugefügt
+- Reperatur Kit Hinzugefügt
+
 
 **13.01.2021**
 
