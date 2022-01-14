@@ -9,6 +9,7 @@ Neue Items:
 
 - Fallschirm Hinzugefügt
 - Reperatur Kit Hinzugefügt
+- Rubbellose Hinzugefügt
 
 
 **13.01.2021**
