@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**16.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Langwaffenroute angepasst
+
 **15.01.2021**
 
 **Neue Items:**
