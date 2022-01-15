@@ -4,14 +4,20 @@ CHANGE LOG:
 
 **15.01.2021**
 
-Änderungen Fahrzeuge:
+**Allgemeine Änderungen:**
+
+- Respawnen wenn Ohmmächtig angepasst
+
+
+**Änderungen Fahrzeuge:**
 
 - Benzin verbrauch angepasst
 - Motor schaden angepasst
 
-Job Änderungen:
+**Job Änderungen:**
 
 - Nurnoch Mechaniker können Fahzeuge tunen
+
 
 **14.01.2021**
 
