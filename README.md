@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **15.01.2021**
 
+**Neue Items:**
+
+- Fernglas hinzugefügt
+
 **Allgemeine Änderungen:**
 
 - Respawnen wenn Ohmmächtig angepasst
