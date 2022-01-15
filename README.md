@@ -11,7 +11,7 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Respawnen wenn Ohmmächtig angepasst
-
+- EU Straßen Hinzugefügt
 
 **Änderungen Fahrzeuge:**
 
