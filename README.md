@@ -4,6 +4,11 @@ CHANGE LOG:
 
 **15.01.2021**
 
+Änderungen Fahrzeuge:
+
+- Benzin verbrauch angepasst
+- Motor schaden angepasst
+
 Job Änderungen:
 
 - Nurnoch Mechaniker können Fahzeuge tunen
