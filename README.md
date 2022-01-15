@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**15.01.2021**
+
+Job Änderungen:
+
+- Nurnoch Mechaniker können Fahzeuge tunen
+
 **14.01.2021**
 
 -  Donator Shop hinzugefügt
