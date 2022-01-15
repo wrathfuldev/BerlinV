@@ -12,6 +12,7 @@ CHANGE LOG:
 
 - Respawnen wenn Ohmmächtig angepasst
 - EU Straßen Hinzugefügt
+- Person Tragen Hinzugefügt, /carry
 
 **Änderungen Fahrzeuge:**
 
