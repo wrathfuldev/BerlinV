@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Menü Angepasst
 - Legale Routen Angepasst
 - Statusseite Hinzugefügt
     - https://fwrp.statuspage.io/
