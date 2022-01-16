@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kleidungs Menü Angepasst
+    - Mann kann sich nun ausziehen
+    - Tastaturbelegung auf L
 - Drogenlabore Angepasst
 - Drogenrouten Angepasst
 - Menü Angepasst
