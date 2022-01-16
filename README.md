@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Drogenlabore Angepasst
+- Drogenrouten Angepasst
 - Menü Angepasst
 - Legale Routen Angepasst
 - Statusseite Hinzugefügt
