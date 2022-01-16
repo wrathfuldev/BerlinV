@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Statusseite Hinzugefügt
+    - https://fwrp.statuspage.io/
 - Langwaffenroute angepasst
 - Eigene Tankstellen angepasst
 
