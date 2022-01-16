@@ -14,6 +14,7 @@ CHANGE LOG:
 
 **Neue Items:**
 
+- Fernglas hinzugefügt
 
 
 **Allgemeine Änderungen:**
