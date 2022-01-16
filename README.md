@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Blips größe Angepasst
 - Kleidungs Menü Angepasst
     - Mann kann sich nun ausziehen
     - Tastaturbelegung auf L
