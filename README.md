@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Legale Routen Angepasst
 - Statusseite Hinzugefügt
     - https://fwrp.statuspage.io/
 - Langwaffenroute angepasst
