@@ -7,6 +7,8 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Langwaffenroute angepasst
+- Jagt angepasst
+- Eigene Tankstellen angepasst
 
 **15.01.2021**
 
