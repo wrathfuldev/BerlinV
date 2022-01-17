@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Donator Shop Update
+    - https://futureworldrp.tebex.io/
 - GPS Punkte Aktualisiert
 - Item Gewicht Angepasst
 - Casino Hinzugefügt
