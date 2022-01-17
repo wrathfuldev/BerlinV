@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Casino Hinzugefügt
 - Führerschein Hinzugefügt
     - Autos
     - LKW
