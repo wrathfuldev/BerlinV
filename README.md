@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- GPS Punkte Aktualisiert
 - Item Gewicht Angepasst
 - Casino Hinzugefügt
 - Führerschein Hinzugefügt
