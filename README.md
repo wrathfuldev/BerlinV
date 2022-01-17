@@ -10,6 +10,7 @@ CHANGE LOG:
     - Autos
     - LKW
     - Motorrad
+- Autos können nurnoch mit Führerschein gekauft werden
 - Fischen hinzugefügt
 - Garage bei PD und Mechaniker hinzugefügt
 
