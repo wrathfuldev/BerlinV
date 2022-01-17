@@ -6,6 +6,10 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Führerschein Hinzugefügt
+    - Autos
+    - LKW
+    - Motorrad
 - Fischen hinzugefügt
 - Garage bei PD und Mechaniker hinzugefügt
 
