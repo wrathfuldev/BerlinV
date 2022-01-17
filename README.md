@@ -20,6 +20,8 @@ CHANGE LOG:
 
 **Neue Items:**
 
+- Kaffee Hinzugefügt
+    - Gibt dir für kurze zeit unentlich Ausdauer
 - Rucksack Hinzugefügt
     - Ist Donator item
 
