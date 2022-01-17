@@ -11,6 +11,7 @@ CHANGE LOG:
     - LKW
     - Motorrad
 - Flugzeugshop Hinzugefügt
+- Polizei Radar + Kennzeichen erkennungssystem Hinzugefügt
 - Autos können nurnoch mit Führerschein gekauft werden
 - Fischen hinzugefügt
 - Garage bei PD und Mechaniker hinzugefügt
