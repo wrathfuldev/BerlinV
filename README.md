@@ -17,6 +17,10 @@ CHANGE LOG:
 - Fischen hinzugefügt
 - Garage bei PD und Mechaniker hinzugefügt
 
+**Neue Items:**
+
+- Rucksack Hinzugefügt
+    - Ist Donator item
 
 **16.01.2021**
 
