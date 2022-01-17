@@ -7,7 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Fischen hinzugefügt
-
+- Garage bei PD und Mechaniker hinzugefügt
 
 **16.01.2021**
 
