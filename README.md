@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**17.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Fischen hinzugefügt
+
+
 **16.01.2021**
 
 **Allgemeine Änderungen:**
