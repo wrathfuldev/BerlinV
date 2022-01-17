@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Item Gewicht Angepasst
 - Casino Hinzugefügt
 - Führerschein Hinzugefügt
     - Autos
