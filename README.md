@@ -9,6 +9,7 @@ CHANGE LOG:
 - Fischen hinzugefügt
 - Garage bei PD und Mechaniker hinzugefügt
 
+
 **16.01.2021**
 
 **Allgemeine Änderungen:**
@@ -25,6 +26,7 @@ CHANGE LOG:
     - https://fwrp.statuspage.io/
 - Langwaffenroute angepasst
 - Eigene Tankstellen angepasst
+
 
 **15.01.2021**
 
