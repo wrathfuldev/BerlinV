@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Waffenmagazin Route Hinzugefügt
+    - Pistolen, Gewehr Magazin
 - Donator Shop Update
     - https://futureworldrp.tebex.io/
 - GPS Punkte Aktualisiert
