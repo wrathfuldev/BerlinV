@@ -12,6 +12,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Autoshop Neue Autos
 - Apferoute Angepasst
 - Hunger und Durst Angepasst
 - Apfel Route Hinzugefügt
