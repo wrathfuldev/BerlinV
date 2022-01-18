@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**19.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Pistolenrouten Update
+
+
 **18.01.2021**
 
 **Neue Nahrung:**
