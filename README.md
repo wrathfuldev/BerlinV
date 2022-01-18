@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Brieftasche Hinzugefügt
+    - Zeige Ausweise
+    - Sehe selber deine Ausweise
 - Distanz zum Auto Auf-/Absperren verringert
 - Distanz zum Kofferaum verringert
 - Waschanalage Hinzugefügt
