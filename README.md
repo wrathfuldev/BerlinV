@@ -12,6 +12,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Hunger und Durst Angepasst
 - Apfel Route Hinzugefügt
 - Brieftasche Hinzugefügt
     - Zeige Ausweise
