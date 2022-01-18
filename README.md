@@ -12,6 +12,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kokain Angepasst
+    - Kann nun an Kopflose verkauft werden
 - Autoshop Neue Autos
 - Apferoute Angepasst
 - Hunger und Durst Angepasst
