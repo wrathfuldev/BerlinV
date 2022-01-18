@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+
+- Auto Versicherung Autonamen Fix
 - Ladebildschirm Regeln Hinzugefügt
 
 
