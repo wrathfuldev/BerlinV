@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**18.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Ladebildschirm Regeln Hinzugefügt
+
+
 **17.01.2021**
 
 **Allgemeine Änderungen:**
