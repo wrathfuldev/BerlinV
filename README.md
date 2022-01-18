@@ -4,9 +4,10 @@ CHANGE LOG:
 
 **18.01.2021**
 
-**Neues Essen:**
+**Neue Nahrung:**
 
 - Apfel
+- Apfelsaft
 
 
 **Allgemeine Änderungen:**
