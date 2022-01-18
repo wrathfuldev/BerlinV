@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Distanz zum Kofferaum verringert
 - Waschanalage Hinzugefügt
 - Auto Versicherung Autonamen Fix
 - Ladebildschirm Regeln Hinzugefügt
