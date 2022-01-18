@@ -6,7 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
-
+- Waschanalage Hinzugefügt
 - Auto Versicherung Autonamen Fix
 - Ladebildschirm Regeln Hinzugefügt
 
