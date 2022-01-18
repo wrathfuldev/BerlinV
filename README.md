@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Waffenshop Änderungen
+    - Pistolen, Gewehr Munition Entfernt
 - Waffenmagazin Route Hinzugefügt
     - Pistolen, Gewehr Magazin
 - Donator Shop Update
