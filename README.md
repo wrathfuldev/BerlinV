@@ -6,7 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
-- Pistolenrouten Update
+- Pistolenrouten Route Änderungen
 
 
 **18.01.2021**
