@@ -6,6 +6,12 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Heiligen 3 Gegenstände Hinzugefügt
+    - Wird bei Verkehrskontrollen Kontrolliert
+    - Pannendreieck
+    - Warnweste
+    - Erstehilfeset
+
 - Drogenverkaufspreise an NPC's angepasst
 - Pistolenrouten Route Änderungen
 - SaltyChat Änderungen
