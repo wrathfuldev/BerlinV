@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kabelbinder ersetzt mit Handschellen
 - Heiligen 3 Gegenstände Hinzugefügt
     - Wird bei Verkehrskontrollen Kontrolliert
     - Pannendreieck
