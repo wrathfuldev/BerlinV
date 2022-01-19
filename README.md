@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Drogenverkaufspreise an NPC's angepasst
 - Pistolenrouten Route Änderungen
 - SaltyChat Änderungen
     - M = Sprachreichweite
