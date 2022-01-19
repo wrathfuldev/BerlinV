@@ -11,6 +11,7 @@ CHANGE LOG:
     - M = Sprachreichweite
     - N = Funken
     - B = Megafon
+    - Selber Keybinds anpassen
 
 **18.01.2021**
 
