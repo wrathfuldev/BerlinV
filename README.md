@@ -10,6 +10,7 @@ CHANGE LOG:
     - Macht mehr schaden nun
     - Knockout hinzugefügt
 - Discord Änderungen
+    - Tickets Hinzugefügt
 - Schwarzmarkt Hinzugefügt
     - Können mit Schwarzgeld Spezielle Waffen gekauft werden
     - Inventar ändert sich jede 2 wochen
