@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Schlagen mit Fäusten Angepasst
+    - Macht mehr schaden nun
+    - Knockout hinzugefügt
 - Discord Änderungen
 - Schwarzmarkt Hinzugefügt
     - Können mit Schwarzgeld Spezielle Waffen gekauft werden
