@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Geschwindigkeits Anzeige sind nur vorläufige Icon
 - Schlagen mit Fäusten Angepasst
     - Macht mehr schaden nun
     - Knockout hinzugefügt
