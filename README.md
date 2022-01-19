@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Schwarzmarkt Hinzugefügt
+    - Können mit Schwarzgeld Spezielle Waffen gekauft werden
+    - Inventar ändert sich jede 2 wochen
 - Kabelbinder ersetzt mit Handschellen
 - Heiligen 3 Gegenstände Hinzugefügt
     - Wird bei Verkehrskontrollen Kontrolliert
