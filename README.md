@@ -7,7 +7,10 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Pistolenrouten Route Änderungen
-
+- SaltyChat Änderungen
+    - M = Sprachreichweite
+    - N = Funken
+    - B = Megafon
 
 **18.01.2021**
 
