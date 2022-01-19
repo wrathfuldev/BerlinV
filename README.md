@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Discord Änderungen
 - Schwarzmarkt Hinzugefügt
     - Können mit Schwarzgeld Spezielle Waffen gekauft werden
     - Inventar ändert sich jede 2 wochen
