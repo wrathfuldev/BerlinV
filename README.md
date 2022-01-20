@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**20.01.2021**
+
+**Allgemeine Änderungen:**
+
+- LKW zum Autoshop Hinzugefügt
+
+
 **19.01.2021**
 
 **Allgemeine Änderungen:**
