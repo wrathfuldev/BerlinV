@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Scoreboard Hinzugefügt
+    - Um es zu öffnen drücke K
 - Neue Fraktion Eingereist
     - Camarro
 - Kleinere Verbesserungen
