@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neue Fraktion Eingereist
+    - Camarro
 - Kleinere Verbesserungen
 - LKW zum Autoshop Hinzugefügt
 
