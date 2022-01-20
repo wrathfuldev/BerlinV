@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kleinere Verbesserungen
 - LKW zum Autoshop Hinzugefügt
 
 
