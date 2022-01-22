@@ -23,7 +23,7 @@ CHANGE LOG:
 - Credits Menü Änderungen
     - Neue Aufgaben Hinzugefügt
     - Neue Items Hinzugefügt
-- Jagt Vorzeitig deaktiviert wegen problem mit AntiCheat
+- Jagt wieder Aktiviert
 - Gefängnis Update
     - Verdiene Geld durch Kisten verpacken
     - Essen und Trinken kann man in der Kantine kaufen
