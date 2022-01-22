@@ -16,6 +16,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Geldwäsche Änderungen
+    - Neue Standorte
+    - Bug Fixes
 - Öffentliche Geldwäsche Hinzugefügt
 - Banküberfall Hinzugefügt
     - Benötigt aber Gegenstände
