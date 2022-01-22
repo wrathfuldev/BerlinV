@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Shop für Raubüberfall Items hinzugefügt
 - Geldwäsche Änderungen
     - Neue Standorte
     - Bug Fixes
