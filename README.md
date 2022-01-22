@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Neue Items:**
 
+- Jagt Lizenz Hinzugefügt
+    - Kann im Waffenladen gekauft werden
 - Streichholz
 
 **Neue Nahrung:**
