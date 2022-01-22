@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Jagt Vorzeitig deaktiviert wegen problem mit AntiCheat
 - Gefängnis Update
     - Verdiene Geld durch Kisten verpacken
     - Essen und Trinken kann man in der Kantine kaufen
