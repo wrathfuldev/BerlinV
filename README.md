@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Gefängnis Hinzugefügt
 - Multijobmenü vorerst deaktiviert
 - Shop für Raubüberfall Items hinzugefügt
 - Geldwäsche Änderungen
