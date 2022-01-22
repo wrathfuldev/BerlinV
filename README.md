@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Discord Änderungen
 - Credits Menü Änderungen
     - Neue Aufgaben Hinzugefügt
     - Neue Items Hinzugefügt
