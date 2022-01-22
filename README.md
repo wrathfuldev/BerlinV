@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Multijobmenü vorerst deaktiviert
 - Shop für Raubüberfall Items hinzugefügt
 - Geldwäsche Änderungen
     - Neue Standorte
