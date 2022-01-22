@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Scoreboard Deaktiviert wegen bug
 - Gefängnis Hinzugefügt
 - Multijobmenü vorerst deaktiviert
 - Shop für Raubüberfall Items hinzugefügt
