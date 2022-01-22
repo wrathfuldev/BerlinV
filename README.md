@@ -16,6 +16,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Credits Menü Änderungen
+    - Neue Aufgaben Hinzugefügt
+    - Neue Items Hinzugefügt
 - Jagt Vorzeitig deaktiviert wegen problem mit AntiCheat
 - Gefängnis Update
     - Verdiene Geld durch Kisten verpacken
