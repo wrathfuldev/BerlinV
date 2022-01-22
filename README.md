@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Öffentliche Geldwäsche Hinzugefügt
 - Banküberfall Hinzugefügt
     - Benötigt aber Gegenstände
 - Jagt Hinzugefügt
