@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Hunger und Trinken Angepasst
+- LKW Kofferaum Angepasst
 
 
 **20.01.2021**
