@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **22.01.2021**
 
+**Neue Items:**
+
+- Streichholz
+
 **Neue Nahrung:**
 
 - Gegrilltes Fleisch
