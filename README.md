@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**22.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Hunger und Trinken Angepasst
+
+
 **20.01.2021**
 
 **Allgemeine Änderungen:**
