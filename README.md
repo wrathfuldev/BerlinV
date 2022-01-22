@@ -16,6 +16,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Gefängnis Update
+    - Verdiene Geld durch Kisten verpacken
+    - Essen und Trinken kann man in der Kantine kaufen
 - Scoreboard Deaktiviert wegen bug
 - Gefängnis Hinzugefügt
 - Multijobmenü vorerst deaktiviert
