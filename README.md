@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Lohn wird nun vom Frak Konto ausbezahlt
 - Polizei GTR Angepasst
 - Discord Änderungen
 - Credits Menü Änderungen
