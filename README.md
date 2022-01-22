@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Die Uhr im spiel ist gleich wie in echt
 - Lohn wird jede 15 min. ausbezahlt
 - Lohn wird nun vom Frak Konto ausbezahlt
 - Polizei GTR Angepasst
