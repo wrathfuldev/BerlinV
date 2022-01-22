@@ -4,8 +4,15 @@ CHANGE LOG:
 
 **22.01.2021**
 
+**Neue Nahrung:**
+
+- Gegrilltes Fleisch
+
 **Allgemeine Änderungen:**
 
+- Jagt Hinzugefügt
+    - Heute Tiere um Leder und Fleisch zu erhalten
+    - Verkaufe Gegrilltes/Rohes Fleisch und das Leder für geld
 - Hunger und Trinken Angepasst
 - LKW Kofferaum Angepasst
 
