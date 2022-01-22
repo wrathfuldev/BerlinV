@@ -16,6 +16,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Banküberfall Hinzugefügt
+    - Benötigt aber Gegenstände
 - Jagt Hinzugefügt
     - Heute Tiere um Leder und Fleisch zu erhalten
     - Verkaufe Gegrilltes/Rohes Fleisch und das Leder für geld
