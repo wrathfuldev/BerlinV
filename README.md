@@ -13,6 +13,7 @@ CHANGE LOG:
 
 - Regelwerk Aktualisiert
     - Allgemeine Roleplay Regeln
+        - §24 Hinzugefügt
         - §25 Hinzugefügt
         - §26 hinzugefügt
 - Donator Shop Auto Katalog Hinzugefügt
