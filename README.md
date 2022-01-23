@@ -8,6 +8,11 @@ CHANGE LOG:
     - Discord Regelwerk Hinzugefügt
     - Roleplay Regelwerk Hinzugefügt
 
+**Allgemeine Änderungen:**
+
+- Bloods Tor Hinzugefügt
+
+
 **22.01.2021**
 
 **Neue Items:**
