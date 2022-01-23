@@ -10,6 +10,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Job Menü Hinzugefügt (Regelwerk lesen dazu)
 - Pistolen Händler Hinzugefügt
 - Bloods Tor Hinzugefügt
 
