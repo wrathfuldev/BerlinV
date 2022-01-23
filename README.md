@@ -28,7 +28,7 @@ CHANGE LOG:
 - Gefängnis Update
     - Verdiene Geld durch Kisten verpacken
     - Essen und Trinken kann man in der Kantine kaufen
-- Scoreboard Deaktiviert wegen bug
+- Scoreboard Aktiviert
 - Gefängnis Hinzugefügt
 - Multijobmenü vorerst deaktiviert
 - Shop für Raubüberfall Items hinzugefügt
