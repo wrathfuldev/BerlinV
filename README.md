@@ -5,6 +5,7 @@ CHANGE LOG:
 **23.01.2021**
 
 **Discord Änderungen:**
+    - Discord Rollen Aktuallisiert
     - Discord Regelwerk Hinzugefügt
     - Roleplay Regelwerk Hinzugefügt
 
