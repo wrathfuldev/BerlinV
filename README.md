@@ -11,6 +11,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Job Menü Änderungen
+    - Nurnoch Staatsfraktionen können Auser Dienst gehen
 - Job Menü Hinzugefügt (Regelwerk lesen dazu)
 - Pistolen Händler Hinzugefügt
 - Bloods Tor Hinzugefügt
