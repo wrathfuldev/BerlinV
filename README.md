@@ -14,7 +14,7 @@ CHANGE LOG:
 - Regelwerk Aktualisiert
     - Allgemeine Roleplay Regeln
         - §25 Hinzugefügt
-        - §26 Hinzugefügt
+        - §26 hinzugefügt
 - Donator Shop Auto Katalog Hinzugefügt
 - Job Menü Änderungen
     - Nurnoch Staatsfraktionen können Auser Dienst gehen
