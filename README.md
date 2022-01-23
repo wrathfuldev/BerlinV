@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Donator Shop Auto Katalog Hinzugefügt
 - Job Menü Änderungen
     - Nurnoch Staatsfraktionen können Auser Dienst gehen
 - Job Menü Hinzugefügt (Regelwerk lesen dazu)
