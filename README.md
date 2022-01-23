@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**23.01.2021**
+
+**Discord Änderungen:**
+    - Discord Regelwerk Hinzugefügt
+    - Roleplay Regelwerk Hinzugefügt
+
 **22.01.2021**
 
 **Neue Items:**
