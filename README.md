@@ -12,6 +12,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Zweite Geldwäsche Hinzugefügt mit weniger provision beim waschen
 - Regelwerk Aktualisiert
     - Allgemeine Roleplay Regeln
         - §24 Hinzugefügt
