@@ -12,6 +12,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Zweite Motor und Öl anzeige entfernt
 - Zweite Geldwäsche Hinzugefügt mit weniger provision beim waschen
 - Regelwerk Aktualisiert
     - Allgemeine Roleplay Regeln
