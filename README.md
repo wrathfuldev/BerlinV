@@ -10,6 +10,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Pistolen Händler Hinzugefügt
 - Bloods Tor Hinzugefügt
 
 
