@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**24.01.2021**
+
+**Allgemeine Änderungen:**
+- Credits Store Geupdated
+    - Neue Items Hinzugefügt
+
 **23.01.2021**
 
 **Discord Änderungen:**
