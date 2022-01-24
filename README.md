@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Website Online Gestellt
+    - https://fwrp.cc
 - Legale Routen Angepasst
 - TeamSpeak Server Änderungen
 - Rubbelose Angepasst
