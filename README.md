@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Legale Routen Angepasst
 - TeamSpeak Server Änderungen
 - Rubbelose Angepasst
 - Credits Store Geupdated
