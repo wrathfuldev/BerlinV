@@ -5,6 +5,7 @@ CHANGE LOG:
 **24.01.2021**
 
 **Allgemeine Änderungen:**
+- Rubbelose Angepasst
 - Credits Store Geupdated
     - Neue Items Hinzugefügt
 
