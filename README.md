@@ -2,6 +2,11 @@
 
 CHANGE LOG:
 
+**26.01.2021**
+
+- Server wieder online
+- Kleine Verbesserungen
+
 **24.01.2021**
 
 **Allgemeine Änderungen:**
