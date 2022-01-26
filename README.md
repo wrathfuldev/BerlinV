@@ -4,14 +4,15 @@ CHANGE LOG:
 
 **26.01.2021**
 
-**Discord Änderungen:**
+**Allgemeine Änderungen:**
+- Fahrzeuge Angepasst
+    - Fahrzeuge können nicht mehr aufgestellt werden, wenn diese auf dem Dach liegen
+    - Fahrzeuge hören mit 10% Motor auf zu funktionieren
 - SaltyChat Kreis für voice range hinzugefügt
 - Server wieder online
 - Kleine Verbesserungen
 
 **24.01.2021**
-
- v
 
 - Website Online Gestellt
     - https://fwrp.cc
