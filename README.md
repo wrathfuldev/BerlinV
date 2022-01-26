@@ -4,12 +4,14 @@ CHANGE LOG:
 
 **26.01.2021**
 
+**Discord Änderungen:**
+- SaltyChat Kreis für voice range hinzugefügt
 - Server wieder online
 - Kleine Verbesserungen
 
 **24.01.2021**
 
-**Allgemeine Änderungen:**
+ v
 
 - Website Online Gestellt
     - https://fwrp.cc
