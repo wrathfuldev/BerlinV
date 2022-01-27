@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Telefon Änderungen
+    - Automatische Sprache Deutsch
+    - Automatisch auf Maussteuerung
 - Tankverbrauch Angepasst
 - Polizei Auto Radar Hinzugefügt mit Kennzeichen erkennung
 - Billiard hinzugefügt
