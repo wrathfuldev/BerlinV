@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Tankverbrauch Angepasst
 - Polizei Auto Radar Hinzugefügt mit Kennzeichen erkennung
 - Billiard hinzugefügt
 
