@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Auto Blinker Hinzugefügt
 - Neues Auto HUD Hinzugefügt
     - Kann man selber anpassen wie man will
 - Wetter Änderungen
