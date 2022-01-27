@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Persöhnliches Lager Hinzugefügt
+- Fraklager System Hinzugefügt
 - Auto Blinker Hinzugefügt
 - Neues Auto HUD Hinzugefügt
     - Kann man selber anpassen wie man will
