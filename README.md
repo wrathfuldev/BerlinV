@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neues Auto HUD Hinzugefügt
+    - Kann man selber anpassen wie man will
 - Wetter Änderungen
     - Wetter ändert sich nun jede 30 min anstatt jede 15
 - Telefon Änderungen
