@@ -5,6 +5,13 @@ CHANGE LOG:
 **26.01.2021**
 
 **Allgemeine Änderungen:**
+
+- Billiard hinzugefügt
+
+
+**26.01.2021**
+
+**Allgemeine Änderungen:**
 - Fahrzeuge Angepasst
     - Fahrzeuge können nicht mehr aufgestellt werden, wenn diese auf dem Dach liegen
     - Fahrzeuge hören mit 10% Motor auf zu funktionieren
