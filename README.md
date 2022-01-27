@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Wetter Änderungen
+    - Wetter ändert sich nun jede 30 min anstatt jede 15
 - Telefon Änderungen
     - Automatische Sprache Deutsch
     - Automatisch auf Maussteuerung
