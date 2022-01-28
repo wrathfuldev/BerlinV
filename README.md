@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Grovestreet Gang Hinzugefügt
 - Spraydosen angepasst
 - Tankverbrauch angepasst
 - Scoreboard keybind geändert auf 5
