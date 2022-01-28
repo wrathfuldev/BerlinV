@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neuer Kleidungsshop
+    - Arme können und ausgewählt werden
 - Basketball Hinzugefüt
     - Siehe Discord für keybinds und commands
 - Grovestreet Gang Hinzugefügt
