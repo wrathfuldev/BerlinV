@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Basketball Hinzugefüt
+    - Siehe Discord für keybinds und commands
 - Grovestreet Gang Hinzugefügt
 - Spraydosen angepasst
 - Tankverbrauch angepasst
