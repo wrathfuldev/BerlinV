@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Leitstelle Hinzugefügt
 - Neuer Kleidungsshop
     - Arme können und ausgewählt werden
 - Basketball Hinzugefüt
