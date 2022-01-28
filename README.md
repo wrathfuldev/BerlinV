@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**28.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Scoreboard keybind geändert auf 5
+
+
 **27.01.2021**
 
 **Allgemeine Änderungen:**
