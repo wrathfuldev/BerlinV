@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Tankverbrauch angepasst
 - Scoreboard keybind geändert auf 5
 
 
