@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Ts3 hat nun auch 128 slots
 - Pistolen Preis Angepasst
 - Apfelsaft Route Angepasst
 - Pistolen Route Angepasst
