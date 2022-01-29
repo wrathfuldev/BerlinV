@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Pistolen Preis Angepasst
 - Apfelsaft Route Angepasst
 - Pistolen Route Angepasst
 - Mechaniker Tore angepasst
