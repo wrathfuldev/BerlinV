@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**29.01.2021**
+
+**Allgemeine Änderungen:**
+
+- Aston Martin DBX änderungen
+    - Schneller gemacht
+
 **28.01.2021**
 
 **Allgemeine Änderungen:**
