@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Pistolen Route Angepasst
 - Mechaniker Tore angepasst
 - Aston Martin DBX änderungen
     - Schneller gemacht
