@@ -2,6 +2,10 @@
 
 CHANGE LOG:
 
+**30.01.2021**
+
+- Fahrzeuge für PD geänert
+
 **29.01.2021**
 
 **Allgemeine Änderungen:**
