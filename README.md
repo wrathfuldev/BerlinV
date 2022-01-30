@@ -5,6 +5,7 @@ CHANGE LOG:
 **30.01.2021**
 
 - Fahrzeuge für PD geänert
+- Tank angepasst
 
 **29.01.2021**
 
