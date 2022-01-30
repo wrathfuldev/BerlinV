@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **30.01.2021**
 
+- Keybind command hinzugefügt
+    - mit /keybinds kann dies göffnet werden
 - Fahrzeuge für PD geänert
 - Tank angepasst
 - Apfelsatroute Änerungen
