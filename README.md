@@ -4,6 +4,7 @@ CHANGE LOG:
 
 **30.01.2021**
 
+- Alle Polizei Autos haben nun Deutsches design
 - Keybind command hinzugefügt
     - mit /keybinds kann dies göffnet werden
 - Fahrzeuge für PD geänert
