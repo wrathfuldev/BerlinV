@@ -2,6 +2,10 @@
 
 CHANGE LOG:
 
+**31.01.2021**
+
+- Aston Martin DBX Angepasst
+
 **30.01.2021**
 
 - Alle Polizei Autos haben nun Deutsches design
