@@ -4,6 +4,7 @@ CHANGE LOG:
 
 **31.01.2021**
 
+- Blips auf Karte aktualisiert
 - Vehicle Kontroll Menü Angepasst
 - BMW X6M Entfernt
 - Tattooshop Entfernt bis bugs behoben wurden
