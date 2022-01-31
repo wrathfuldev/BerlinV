@@ -4,6 +4,7 @@ CHANGE LOG:
 
 **31.01.2021**
 
+- Tattooshop Entfernt bis bugs behoben wurden
 - Aston Martin DBX Angepasst
 
 **30.01.2021**
