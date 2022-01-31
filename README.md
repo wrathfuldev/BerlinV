@@ -4,6 +4,7 @@ CHANGE LOG:
 
 **31.01.2021**
 
+- Pistolenroute Gefixt
 - Munitionsroute Gefixt
 - Blips auf Karte aktualisiert
 - Vehicle Kontroll Menü Angepasst
