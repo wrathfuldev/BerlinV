@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Discord Änderungen
 - Waffenshop Angepasst
 - Alle Routen Angepasst
 - Fix von verzogene Gesichter bei Joboutfits
