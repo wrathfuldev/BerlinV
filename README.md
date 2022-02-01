@@ -2,8 +2,17 @@
 
 CHANGE LOG:
 
+**01.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Animierte Auto Skins Hinzugefügt 
+    - Mehr Infos im Donatorshop und im Regelwerk
+
+
 **31.01.2021**
 
+**Allgemeine Änderungen:**
 - Pistolenroute Gefixt
 - Munitionsroute Gefixt
 - Blips auf Karte aktualisiert
