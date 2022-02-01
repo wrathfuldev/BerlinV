@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Waffenshop Angepasst
 - Alle Routen Angepasst
 - Fix von verzogene Gesichter bei Joboutfits
 - Neues Charakter Erstellungs Script
