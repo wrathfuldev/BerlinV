@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neues Charakter Erstellungs Script
+    - Kleidungsladen Überarbeitet
+    - Frisörladen Überarbeitet
 - Animierte Auto Skins Hinzugefügt 
     - Mehr Infos im Donatorshop und im Regelwerk
 
