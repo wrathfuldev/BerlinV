@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Fix von verzogene Gesichter bei Joboutfits
 - Neues Charakter Erstellungs Script
     - Kleidungsladen Überarbeitet
     - Frisörladen Überarbeitet
