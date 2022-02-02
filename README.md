@@ -2,10 +2,13 @@
 
 CHANGE LOG:
 
-**01.02.2021**
+**02.02.2021**
 
 **Allgemeine Änderungen:**
 
+- Twitter Command Entfernt
+    - Twitter nurnoch via Handy nutzbar
+- Auto Verleih Hinzugefügt
 - Polizei Lizenz verwaltungssystem hinzugefügt
 
 
