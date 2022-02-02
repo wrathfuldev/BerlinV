@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Masken Laden Hinzugefügt
 - Fernseher können YouTube Videos abspielen
 - Twitter Command Entfernt
     - Twitter nurnoch via Handy nutzbar
