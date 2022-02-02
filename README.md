@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Leitstelle gefixt
+    - SMS werden nun empfangen wenn Person Leitstelle besetzt
 - Armdrücken Hinzugefügt
 - Masken Laden Hinzugefügt
 - Fernseher können YouTube Videos abspielen
