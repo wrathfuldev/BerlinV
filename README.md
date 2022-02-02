@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Armdrücken Hinzugefügt
 - Masken Laden Hinzugefügt
 - Fernseher können YouTube Videos abspielen
 - Twitter Command Entfernt
