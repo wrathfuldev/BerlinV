@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Rettungswagen haben Deutsches Design nun
 - Leitstelle gefixt
     - SMS werden nun empfangen wenn Person Leitstelle besetzt
 - Armdrücken Hinzugefügt
