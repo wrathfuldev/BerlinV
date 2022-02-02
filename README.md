@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Fernseher können YouTube Videos abspielen
 - Twitter Command Entfernt
     - Twitter nurnoch via Handy nutzbar
 - Auto Verleih Hinzugefügt
