@@ -6,6 +6,13 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Polizei Lizenz verwaltungssystem hinzugefügt
+
+
+**01.02.2021**
+
+**Allgemeine Änderungen:**
+
 - Discord Änderungen
 - Waffenshop Angepasst
 - Alle Routen Angepasst
