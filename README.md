@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**03.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Prop Spawner Hinzugefügt 
+    - Siehe discord commands für mehr Infos
+
+
 **02.02.2021**
 
 **Allgemeine Änderungen:**
