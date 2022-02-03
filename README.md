@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Dienstkleidung für Teamler hinzugefügt
 - Allgemeine Roleplay Regeln Aktuallisiert
     - §29 Hinzugefügt
 - Prop Spawner Hinzugefügt 
