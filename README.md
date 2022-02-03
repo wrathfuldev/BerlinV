@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**04.02.2021**
+
+**Neue Kleidung:**
+
+- Hochzeitskleider für Frauen
+
+
 **03.02.2021**
 
 **Allgemeine Änderungen:**
