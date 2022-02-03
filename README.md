@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Leitstellen Telefon Funktioniert nun vollständig
 - Dispatch System Update
 - Sonnenwende nun nur noch 2 mal am Tag
     - 12:00 und 00:00 Uhr
