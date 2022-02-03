@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Kleidung:**
 
+- Neue Kleidung allgemein
 - Hochzeitskleider für Frauen
 
 
