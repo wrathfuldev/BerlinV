@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Allgemeine Roleplay Regeln Aktuallisiert
+    - §29 Hinzugefügt
 - Prop Spawner Hinzugefügt 
     - Siehe discord commands für mehr Infos
 
