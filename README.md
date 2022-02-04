@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Website Komplettes Redesign
+    - https://www.fwrp.cc
 - Text in Pausenmenü aktuallisiert
     - Discord URL aktuallisiert
     - Ts3 IP hinzugefügt
