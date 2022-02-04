@@ -4,6 +4,12 @@ CHANGE LOG:
 
 **04.02.2021**
 
+**Allgemeine Änderungen:**
+
+- Text in Pausenmenü aktuallisiert
+    - Discord URL aktuallisiert
+    - Ts3 IP hinzugefügt
+
 **Neue Kleidung:**
 
 - Neue Kleidung für Frauen
