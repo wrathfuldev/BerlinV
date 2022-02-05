@@ -7,7 +7,12 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Kaufe / Miete Wohnungen oder Häuser 
-    - Immobilien Markler Job gibt es dazu auch
+    Beinhaltet:
+        - Schlüssel Verwalten
+        - Kleiderschrank
+        - Waffenschrank
+        - Lager 
+        - Geld Lager
 - Email System Hinzugefügt
     - Jede Staatsfraktion hat einen eigenen Punkt
     - Im Apple Store ist auch ein Punkt 
