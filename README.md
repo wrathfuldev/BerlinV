@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kaufe / Miete Wohnungen oder Häuser 
+    - Immobilien Markler Job gibt es dazu auch
 - Email System Hinzugefügt
     - Jede Staatsfraktion hat einen eigenen Punkt
     - Im Apple Store ist auch ein Punkt 
