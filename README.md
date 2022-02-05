@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Email System Hinzugefügt
+    - Jede Staatsfraktion hat einen eigenen Punkt
+    - Im Apple Store ist auch ein Punkt 
 - Carsharing Script Verbessert
 
 
