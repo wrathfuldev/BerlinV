@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Carsharing Spots Angepasst
 - Kleinanzeigen Autos Verkaufen Aktiviert
 - DJ Hinzugefügt
 - Kaufe / Miete Wohnungen oder Häuser 
