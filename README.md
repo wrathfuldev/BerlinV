@@ -4,6 +4,11 @@ CHANGE LOG:
 
 **05.02.2021**
 
+**Neue Kleidung:**
+
+- Neue Kleidung für Frau & Mann
+
+
 **Allgemeine Änderungen:**
 
 - Kaufe / Miete Wohnungen oder Häuser 
