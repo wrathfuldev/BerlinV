@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Fahrradverleih Hinzugefügt
 - Hauseinbrüche hinzugefügt
 - Mehr KFZ Versicherungs Spots Hinzugefügt
 - Carsharing Spots Angepasst
