@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- DJ Hinzugefügt
 - Kaufe / Miete Wohnungen oder Häuser 
     Beinhaltet:
         - Schlüssel Verwalten
