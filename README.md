@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Items für Feuerwehr Hinzugefügt
 - Fahrradverleih Hinzugefügt
 - Hauseinbrüche hinzugefügt
 - Mehr KFZ Versicherungs Spots Hinzugefügt
