@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Mehr KFZ Versicherungs Spots Hinzugefügt
 - Carsharing Spots Angepasst
 - Kleinanzeigen Autos Verkaufen Aktiviert
 - DJ Hinzugefügt
