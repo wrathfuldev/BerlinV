@@ -4,6 +4,13 @@ CHANGE LOG:
 
 **05.02.2021**
 
+**Allgemeine Änderungen:**
+
+- Neues Bank System mit Bankomat
+
+
+**05.02.2021**
+
 **Neue Kleidung:**
 
 - Neue Kleidung für Frau & Mann
