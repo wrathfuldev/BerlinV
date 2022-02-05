@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Hauseinbrüche hinzugefügt
 - Mehr KFZ Versicherungs Spots Hinzugefügt
 - Carsharing Spots Angepasst
 - Kleinanzeigen Autos Verkaufen Aktiviert
