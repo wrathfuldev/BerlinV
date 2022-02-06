@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Krankenhaus Patienten Umkleide Hinzugefügt
 - Neues Bank System mit Bankomat
 
 
