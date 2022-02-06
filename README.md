@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neue Kleidungsläden
 - Verbessertes Charakter Erstellungs System
 - Krankenhaus Patienten Umkleide Hinzugefügt
 - Neues Bank System mit Bankomat
