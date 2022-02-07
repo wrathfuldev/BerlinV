@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**07.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Auto Tuning/Drift Szene Location Hinzugefügt
+
+
 **06.02.2021**
 
 **Allgemeine Änderungen:**
