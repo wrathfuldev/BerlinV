@@ -6,8 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Mehr Keybinds optionen hinzugefügt
 - Kleine Performance Optimierungen
-
 
 
 **07.02.2021**
