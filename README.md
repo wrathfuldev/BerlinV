@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**08.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Kleine Performance Optimierungen
+
+
+
 **07.02.2021**
 
 **Allgemeine Änderungen:**
