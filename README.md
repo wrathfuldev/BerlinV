@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Hud Änderungen
 - SaltyChat Änderungen
 - Auto Tuning/Drift Szene Location Hinzugefügt
 
