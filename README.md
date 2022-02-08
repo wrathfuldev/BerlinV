@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Mülleimer durchsuchen Hinzugefügt
+- Fraktionsautos können nun abgesperrt werden
 - Polizei Dienstausweis Hinzugefügt
 - Brieftasche Update
 - Mehr Keybinds optionen hinzugefügt
