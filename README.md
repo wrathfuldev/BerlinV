@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**09.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Random Crashes in der Stadt gefixt
+
+
 **08.02.2021**
 
 **Allgemeine Änderungen:**
