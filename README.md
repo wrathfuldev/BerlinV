@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neues Autoshop Script
 - Random Crashes in der Stadt gefixt
 
 
