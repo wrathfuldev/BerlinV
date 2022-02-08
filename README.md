@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Brieftasche Update
 - Mehr Keybinds optionen hinzugefügt
 - Kleine Performance Optimierungen
 
