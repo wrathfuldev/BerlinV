@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Polizei Dienstausweis Hinzugefügt
 - Brieftasche Update
 - Mehr Keybinds optionen hinzugefügt
 - Kleine Performance Optimierungen
