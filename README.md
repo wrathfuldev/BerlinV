@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Luxus Auto Shop Hinzugefügt
 - Impound in der Stadt wieder am alten platz
 - Neues Autoshop Script
 - Random Crashes in der Stadt gefixt
