@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Krankenhaus Angepasst
 - Neue Musik im Ladebildschirm
 - Luxus Auto Shop Hinzugefügt
 - Impound in der Stadt wieder am alten platz
