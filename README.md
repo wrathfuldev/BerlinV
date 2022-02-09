@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**10.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Arcade Halle Hinzugefügt
+
+
 **09.02.2021**
 
 **Allgemeine Änderungen:**
