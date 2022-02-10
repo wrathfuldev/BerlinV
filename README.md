@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **10.02.2021**
 
+**Neues Item:**
+
+- Cybertonic Hinzugefügt
+
 **Allgemeine Änderungen:**
 
 - Arcade Halle Hinzugefügt
