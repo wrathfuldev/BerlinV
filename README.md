@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Einfacher gemacht um Medics zu rufen wenn am boden
 - Mülleimer durchsuchen mehr Items/Waffen Hinzugefügt
 - Essen/Trinken Mitteilungen Angepasst
 - Autohäuser/Bootshäuser/Flughäuser Angepasst
