@@ -11,6 +11,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Mülleimer durchsuchen mehr Items/Waffen Hinzugefügt
 - Essen/Trinken Mitteilungen Angepasst
 - Autohäuser/Bootshäuser/Flughäuser Angepasst
 - Kleine Server Perfomance Verbesserungen
