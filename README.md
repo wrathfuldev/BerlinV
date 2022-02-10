@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neues Item:**
 
+- Chips Hinzugefügt
 - Cybertonic Hinzugefügt
 
 **Allgemeine Änderungen:**
