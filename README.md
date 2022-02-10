@@ -10,6 +10,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Essen/Trinken Mitteilungen Angepasst
 - Autohäuser/Bootshäuser/Flughäuser Angepasst
 - Kleine Server Perfomance Verbesserungen
 - Arcade Halle Hinzugefügt
