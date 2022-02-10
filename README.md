@@ -10,6 +10,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Autohäuser/Bootshäuser/Flughäuser Angepasst
 - Kleine Server Perfomance Verbesserungen
 - Arcade Halle Hinzugefügt
 
