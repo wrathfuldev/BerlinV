@@ -10,6 +10,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kleine Server Perfomance Verbesserungen
 - Arcade Halle Hinzugefügt
 
 
