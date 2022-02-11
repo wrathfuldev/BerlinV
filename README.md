@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Eine Waschstraße ist jeden Sonntag per Auktion zu kaufen
+    - Man besitzt diese nur eine (1) Woche
 - Autowaschstraßen Preise Angepasst
 - Zeitung Hinzugefügt
 - Immobilenmarkler Job Hinzugefügt
