@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**11.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Immobilenmarkler Job Hinzugefügt
+
+
+
 **10.02.2021**
 
 **Neues Item:**
