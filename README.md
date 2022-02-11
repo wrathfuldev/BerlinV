@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Fahrschulen Job Hinzugefügt
+    - Nur dieser Job wird Führerscheine ausstellen hönnen
 - Rettungs Dienstausweis Hinzugefügt
 - Polizei Dienstausweis Änderungen
 - Lizenzen wurden gefixt
