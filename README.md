@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Rettungs Dienstausweis Hinzugefügt
 - Polizei Dienstausweis Änderungen
 - Lizenzen wurden gefixt
     - Lizenzen bleiben nun gespeichert
