@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Polizei Dienstausweis Änderungen
 - Lizenzen wurden gefixt
     - Lizenzen bleiben nun gespeichert
 - Eine Waschstraße ist jeden Sonntag per Auktion zu kaufen
