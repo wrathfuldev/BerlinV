@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Zeitung Hinzugefügt
 - Immobilenmarkler Job Hinzugefügt
 
 
