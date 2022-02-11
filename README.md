@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Autowaschstraßen Preise Angepasst
 - Zeitung Hinzugefügt
 - Immobilenmarkler Job Hinzugefügt
 
