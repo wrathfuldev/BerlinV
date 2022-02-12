@@ -2,12 +2,18 @@
 
 CHANGE LOG:
 
+**12.02.2021**
+
+- Polizei Station Überarbeitet
+    - Design Angepasst
+    - Kühlschank hinzugefügt mit essen
+
 **11.02.2021**
 
 **Allgemeine Änderungen:**
 
 - Fahrschulen Job Hinzugefügt
-    - Nur dieser Job wird Führerscheine ausstellen hönnen
+    - Nur dieser Job wird Führerscheine ausstellen können
 - Rettungs Dienstausweis Hinzugefügt
 - Polizei Dienstausweis Änderungen
 - Lizenzen wurden gefixt
