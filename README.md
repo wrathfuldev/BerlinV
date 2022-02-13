@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Kleine Banküberfälle Hinzugefügt
 - Shop Überfälle hinzugefügt
 - Juwelier Überfall hinzugefügt
 - Mapping für EISE
