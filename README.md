@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Shop Überfälle hinzugefügt
+- Juwelier Überfall hinzugefügt
 - Mapping für EISE
 - Polizei Autos Angepasst
 - Server Optimierung
