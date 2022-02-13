@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**14.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Donatorshop Angepasst
+
+
 **13.02.2021**
 
 **Allgemeine Änderungen:**
