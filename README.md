@@ -2,7 +2,16 @@
 
 CHANGE LOG:
 
+**13.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Server Optimierung
+
+
 **12.02.2021**
+
+**Allgemeine Änderungen:**
 
 - Krankenhaus Überarbeitet
 - Polizei neuer Fuhrpark
