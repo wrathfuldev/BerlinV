@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Discord Angepasst
 - Patreon Angepasst
 - Donatorshop Angepasst
 
