@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Polizei Autos Angepasst
 - Server Optimierung
 
 
