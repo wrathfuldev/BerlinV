@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Mapping für EISE
 - Polizei Autos Angepasst
 - Server Optimierung
 
