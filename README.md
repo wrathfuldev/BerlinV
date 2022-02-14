@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Tank allgemeine Änderungen
 - Tank verbrauch Angepasst
     - LKW Tank verbauch angepasst
 - Discord Angepasst
