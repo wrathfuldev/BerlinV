@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Tank verbrauch Angepasst
+    - LKW Tank verbauch angepasst
 - Discord Angepasst
 - Patreon Angepasst
 - Donatorshop Angepasst
