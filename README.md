@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**15.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Autohaus Vorschaubiler Hinzugefügt
+
+
 **14.02.2021**
 
 **Allgemeine Änderungen:**
