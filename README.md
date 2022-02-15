@@ -6,7 +6,10 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
-- Autohaus Vorschaubiler Hinzugefügt
+- Polizei Autos Anpassungen
+    - VW Passat
+    - BMW 5er
+- Autohaus Vorschaubilder Hinzugefügt
 
 
 **14.02.2021**
