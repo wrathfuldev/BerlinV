@@ -6,6 +6,16 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Motoren Änderungen
+    - Standart Motor Doppelte Haltbarkeit als es war
+    - Verbesserter Motor Doppelte Haltbarkeit als es war
+
+
+
+**15.02.2021**
+
+**Allgemeine Änderungen:**
+
 - Polizei Autos Anpassungen
     - VW Passat
     - BMW 5er
