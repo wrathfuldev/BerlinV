@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Flugschule Aktiviert
 - LKW Autohaus Hinzugefügt
 - Allgemeine anpassungen mit Tankverbrauch
 - Motoren Änderungen
