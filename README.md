@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- LKW Autohaus Hinzugefügt
 - Allgemeine anpassungen mit Tankverbrauch
 - Motoren Änderungen
     - Standart Motor Doppelte Haltbarkeit als es war
