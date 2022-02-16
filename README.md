@@ -2,10 +2,11 @@
 
 CHANGE LOG:
 
-**15.02.2021**
+**16.02.2021**
 
 **Allgemeine Änderungen:**
 
+- Allgemeine anpassungen mit Tankverbrauch
 - Motoren Änderungen
     - Standart Motor Doppelte Haltbarkeit als es war
     - Verbesserter Motor Doppelte Haltbarkeit als es war
