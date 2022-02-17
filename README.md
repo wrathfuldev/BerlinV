@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Auto Command Liste Überarbeitet
 - Casino Überarbeitet
 - Discord Änderungen
     - Animiertes Server Icon Hinzugefügt
