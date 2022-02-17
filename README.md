@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neues Park System
 - Command Liste Aktualisiert
     - Commands für Autos hinzugefügt
     - https://future-world.gitbook.io/tipps/command-liste/auto-commands
