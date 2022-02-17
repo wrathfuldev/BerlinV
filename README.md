@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Casino Überarbeitet
 - Discord Änderungen
     - Animiertes Server Icon Hinzugefügt
     - Animiertes Server Bild Hinzugefügt
