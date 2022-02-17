@@ -6,6 +6,10 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Discord Änderungen
+    - Animiertes Server Icon Hinzugefügt
+    - Animiertes Server Bild Hinzugefügt
+    - Discord Invite Hintergrund Angepasst
 - Items für kleine Banküberfälle nun kaufbar
 - Neues Park System
 - Command Liste Aktualisiert
