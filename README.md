@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**17.02.2021**
+
+**Allgemeine Änderungen:**
+
+- Versicherung Bild für normale GTA Autos Hinzugefügt
+
+
 **16.02.2021**
 
 **Allgemeine Änderungen:**
