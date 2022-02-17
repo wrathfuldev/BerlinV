@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Neues Tattoo System
 - Versicherung Bild für normale GTA Autos Hinzugefügt
 
 
