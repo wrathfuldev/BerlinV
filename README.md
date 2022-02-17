@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen:**
 
+- Items für kleine Banküberfälle nun kaufbar
 - Neues Park System
 - Command Liste Aktualisiert
     - Commands für Autos hinzugefügt
