@@ -7,6 +7,8 @@ CHANGE LOG:
 **Allgemeine Änderungen:**
 
 - Command Liste Aktualisiert
+    - Commands für Autos hinzugefügt
+    - https://future-world.gitbook.io/tipps/command-liste/auto-commands
 - Garagen Änderungen
 - Neues Tattoo System
 - Versicherung Bild für normale GTA Autos Hinzugefügt
