@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neues Item**
 
+- Carsharing neuer spot hinzugefügt
 - Flugschule Update
 - FIB neuer Fuhrpark
 - Sack Hinzugefügt
