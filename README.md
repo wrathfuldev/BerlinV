@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neues Item**
 
+- Flugschule Update
 - FIB neuer Fuhrpark
 - Sack Hinzugefügt
     - Ziehe anderen Spielern einen Sack über den Kopf
