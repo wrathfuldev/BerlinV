@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neues Item**
 
+- Feuerwehr nun Funktionsfähig
 - Carsharing neuer spot hinzugefügt
 - Flugschule Update
 - FIB neuer Fuhrpark
