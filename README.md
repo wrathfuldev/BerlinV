@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**18.02.2021**
+
+**Neues Item**
+
+- Sack Hinzugefügt
+    - Ziehe anderen Spielern einen Sack über den Kopf
+
+
 **17.02.2021**
 
 **Allgemeine Änderungen:**
