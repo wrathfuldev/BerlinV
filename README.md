@@ -2,14 +2,24 @@
 
 CHANGE LOG:
 
+**19.02.2021**
+
+**Allgemeine Änderungen**
+
+- Würfelpark Update
+
+
 **18.02.2021**
 
-**Neues Item**
+**Allgemeine Änderungen**
 
 - Feuerwehr nun Funktionsfähig
 - Carsharing neuer spot hinzugefügt
 - Flugschule Update
 - FIB neuer Fuhrpark
+
+**Neues Item**
+
 - Sack Hinzugefügt
     - Ziehe anderen Spielern einen Sack über den Kopf
 
