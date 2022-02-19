@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Neues Krankenhaus Hinzugefügt
 - Würfelpark Update
 
 
