@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Mehr Kofferraum Platz für SUV's / OFF-ROADER
 - Langwaffenroute Angepasst
 - Neues Krankenhaus Hinzugefügt
 - Würfelpark Update
