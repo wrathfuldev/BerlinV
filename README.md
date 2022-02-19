@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Langwaffenroute Angepasst
 - Neues Krankenhaus Hinzugefügt
 - Würfelpark Update
 
