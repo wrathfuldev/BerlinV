@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Tablet Hinzugefügt - Taste "Z"
 - Munitions Route Überarbeitet
 - Mehr Kofferraum Platz für SUV's / OFF-ROADER
 - Langwaffenroute Angepasst
