@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**21.02.2021**
+
+**Allgemeine Änderungen**
+
+- Server optimierung
+
+
 **19.02.2021**
 
 **Allgemeine Änderungen**
