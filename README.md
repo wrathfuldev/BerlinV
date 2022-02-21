@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Camorra Anwesen Hinzugefügt
 - Ladenüberfälle mehr Orte hinzugefügt
 - Elektirker Job Angepasst
 - Startgeld bekommt man nun Cash auch
