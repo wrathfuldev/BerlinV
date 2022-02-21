@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- LCN Anwesen Hinzugefügt
 - Camorra Anwesen Hinzugefügt
 - Ladenüberfälle mehr Orte hinzugefügt
 - Elektirker Job Angepasst
