@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Ladenüberfälle mehr Orte hinzugefügt
 - Elektirker Job Angepasst
 - Startgeld bekommt man nun Cash auch
 - Server optimierung
