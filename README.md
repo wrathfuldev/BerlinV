@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Startgeld bekommt man nun Cash auch
 - Server optimierung
 
 
