@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Übersetzungen
 - LCN Anwesen Hinzugefügt
 - Camorra Anwesen Hinzugefügt
 - Ladenüberfälle mehr Orte hinzugefügt
