@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Discord Whitelist Hinzugefügt
 - Discord Änderungen
 - Sanitäter Änderungen
 
