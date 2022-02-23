@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Fraktionen Eingereist**
 
+- Camorra
 - LCN
 - Bloods
 
