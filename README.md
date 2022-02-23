@@ -4,6 +4,11 @@ CHANGE LOG:
 
 **23.02.2021**
 
+**Allgemeine Änderungen**
+
+- Sanitäter Änderungen
+
+
 **Fraktionen Eingereist**
 
 - Camorra
