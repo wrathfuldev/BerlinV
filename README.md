@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Discord Änderungen
 - Sanitäter Änderungen
 
 
