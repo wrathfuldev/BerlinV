@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**23.02.2021**
+
+**Fraktionen Eingereist**
+
+- Bloods
+
+
 **21.02.2021**
 
 **Allgemeine Änderungen**
