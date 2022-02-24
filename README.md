@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- AntiCheat Update
 - Tankverbrauch Angepasst
 - Ladenüberfall Fix
 - Helikopter Einparken Gefixt
