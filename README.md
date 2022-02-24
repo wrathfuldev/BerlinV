@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Mechaniker/Polizei Autodietriche Hinzugefügt
 - AntiCheat Update
 - Tankverbrauch Angepasst
 - Ladenüberfall Fix
