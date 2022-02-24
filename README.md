@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Ladenüberfall Fix
 - Helikopter Einparken Gefixt
 
 
