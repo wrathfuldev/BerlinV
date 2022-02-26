@@ -2,6 +2,15 @@
 
 CHANGE LOG:
 
+**26.02.2021**
+
+**Allgemeine Änderungen**
+
+- Narcos Update
+    - Opium, Kokain, Weed 
+
+
+
 **24.02.2021**
 
 **Allgemeine Änderungen**
