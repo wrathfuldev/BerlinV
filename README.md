@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Polizei neuer Helikopter Hinzugefüg
 - Rettung Fahrzeug Angepasst: Zendrack
 - Feuerwehr neue Fahrzeuge
 - Polizei neuer Helikopter
