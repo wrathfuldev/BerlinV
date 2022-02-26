@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Tablet Update
+    - Commands Hinzugefügt
 - Narcos Update
     - Opium, Kokain, Weed 
 
