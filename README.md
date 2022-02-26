@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Feuerwehr neue Fahrzeuge
 - Polizei neuer Helikopter
 - Feuerwehr neuer Standort
 - Tablet Update
