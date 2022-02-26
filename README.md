@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Rettung Fahrzeug Angepasst: Zendrack
 - Feuerwehr neue Fahrzeuge
 - Polizei neuer Helikopter
 - Feuerwehr neuer Standort
