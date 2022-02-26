@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Feuerwehr neuer Standort
 - Tablet Update
     - Commands Hinzugefügt
 - Narcos Update
