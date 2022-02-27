@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**27.02.2021**
+
+**Allgemeine Änderungen**
+
+- Juwelier Raub Blip Hinzugefügt
+
+
+
 **26.02.2021**
 
 **Allgemeine Änderungen**
