@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**28.02.2021**
+
+**Allgemeine Änderungen**
+
+- Mehr Frisuren für Frauen Hinzugefügt
+
+
+
 **27.02.2021**
 
 **Allgemeine Änderungen**
