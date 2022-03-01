@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Glock 17 Modell Hinzugefügt
 - Migration auf neuen Server
 
 
