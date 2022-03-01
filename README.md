@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**02.03.2021**
+
+**Allgemeine Änderungen**
+
+- Migration auf neuen Server
+
+
 **28.02.2021**
 
 **Allgemeine Änderungen**
