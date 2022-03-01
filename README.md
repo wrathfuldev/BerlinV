@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- AntiCheat Update
 - Discord mehr Ticket optionen Hinzugefügt
 - Glock 17 Modell Hinzugefügt
 - Migration auf neuen Server
