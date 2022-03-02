@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Neues CopNet/MedicNet
 - Persöhnliches Lager Bilder Upade
 - Fraklager Bilder Update
 - AntiCheat Update
