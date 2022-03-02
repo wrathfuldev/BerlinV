@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Fraklager Bilder Update
 - AntiCheat Update
 - Discord mehr Ticket optionen Hinzugefügt
 - Glock 17 Modell Hinzugefügt
