@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Neue Kleidung für Frauen Hinzugefügt
 - Neues CopNet/MedicNet
 - Persöhnliches Lager Bilder Upade
 - Fraklager Bilder Update
