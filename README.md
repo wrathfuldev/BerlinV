@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Persöhnliches Lager Bilder Upade
 - Fraklager Bilder Update
 - AntiCheat Update
 - Discord mehr Ticket optionen Hinzugefügt
