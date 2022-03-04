@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- LKW Fahrer Job Hinzugefügt
 - Bloods neuer Standort
 
 
