@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**04.03.2021**
+
+**Allgemeine Änderungen**
+
+- Bloods neuer Standort
+
+
+
 **02.03.2021**
 
 **Allgemeine Änderungen**
