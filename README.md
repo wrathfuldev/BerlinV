@@ -2,6 +2,10 @@
 
 CHANGE LOG:
 
+**07.03.2021**
+
+- Rauchbare Joints/Vape Hinzugefügt
+
 **05.03.2021**
 
 - Neuer Donator Auto Katalog
