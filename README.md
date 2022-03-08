@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Nahrung/Getränke**
 
+- HotDog Hinzugefügt
 - Donut Hinzugefügt
 - Bockwurst im Brot Hinzugefügt
 - Müllermilch Pistauzie Hinzugefügt
