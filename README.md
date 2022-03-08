@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Nahrung/Getränke**
 
+- Müllermilch Schokolade Hinzugefügt
 - Müllermilch Banane Hinzugefügt
 
 **07.03.2021**
