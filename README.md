@@ -4,6 +4,11 @@ CHANGE LOG:
 
 **08.03.2021**
 
+**Job Erneuerungen:**
+
+- Rettung Krankentragen Hinzugefügt 
+
+
 **Neue Nahrung/Getränke**
 
 - Veterano Osbrone Hinzugefügt
