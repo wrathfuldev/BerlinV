@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Nahrung/Getränke**
 
+- Bockwurst im Brot Hinzugefügt
 - Müllermilch Pistauzie Hinzugefügt
 - Müllermilch Schokolade Hinzugefügt
 - Müllermilch Banane Hinzugefügt
