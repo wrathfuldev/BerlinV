@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**08.03.2021**
+
+**Neue Nahrung/Getränke**
+
+- Müllermilch Banane Hinzugefügt
+
 **07.03.2021**
 
 - Rauchbare Joints/Vape Hinzugefügt
