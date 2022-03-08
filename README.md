@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Nahrung/Getränke**
 
+- Müllermilch Pistauzie Hinzugefügt
 - Müllermilch Schokolade Hinzugefügt
 - Müllermilch Banane Hinzugefügt
 
