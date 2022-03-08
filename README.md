@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Nahrung/Getränke**
 
+- Donut Hinzugefügt
 - Bockwurst im Brot Hinzugefügt
 - Müllermilch Pistauzie Hinzugefügt
 - Müllermilch Schokolade Hinzugefügt
