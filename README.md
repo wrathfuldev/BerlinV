@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Nahrung/Getränke**
 
+- Veterano Osbrone Hinzugefügt
 - HotDog Hinzugefügt
 - Donut Hinzugefügt
 - Bockwurst im Brot Hinzugefügt
