@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Yamaha Aerox Hinzugefügt
 - E63 Brabus Angepasst
 
 
