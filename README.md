@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Graffiti Update
 - Yamaha Aerox Hinzugefügt
 - E63 Brabus Angepasst
 
