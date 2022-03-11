@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**11.03.2021**
+
+**Allgemeine Änderungen**
+
+- AntiCheat Update
+
+
+
 **10.03.2021**
 
 **Allgemeine Änderungen**
