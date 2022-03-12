@@ -2,6 +2,15 @@
 
 CHANGE LOG:
 
+
+**12.03.2021**
+
+**Allgemeine Änderungen**
+
+- Gang Spray für Bloods Hinzugefügt
+
+
+
 **11.03.2021**
 
 **Allgemeine Änderungen**
