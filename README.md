@@ -7,6 +7,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Leitstelle Feuerwehr FIX
 - Boxring Hinzugefügt
 - Gang Spray für Bloods Hinzugefügt
 
