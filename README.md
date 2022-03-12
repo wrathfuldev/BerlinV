@@ -7,6 +7,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Boxring Hinzugefügt
 - Gang Spray für Bloods Hinzugefügt
 
 
