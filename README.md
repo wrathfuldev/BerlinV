@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**13.03.2021**
+
+**Allgemeine Änderungen**
+
+- Kofferraum Verstecken Hinzugefügt
+
 
 **12.03.2021**
 
