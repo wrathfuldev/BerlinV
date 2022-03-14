@@ -7,7 +7,8 @@ CHANGE LOG:
 **Job Änderungen**
 
 - KFC Job Hinzugefügt
-
+    - Kann über das Arbeitsamt angenommen werden.
+    - Erhalte einen konstanten Zahltag, verkaufe Chicken Buckets für mehr Geld
 
 
 **13.03.2021**
