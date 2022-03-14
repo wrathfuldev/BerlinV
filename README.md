@@ -7,7 +7,8 @@ CHANGE LOG:
 **Job Änderungen**
 
 - Elektriker Job Update
-
+    - Kann über das Arbeitsamt angenommen werden.
+    - Erhalte einen konstanten Zahltag, repariere Lampen in der Stadt
 - KFC Job Hinzugefügt
     - Kann über das Arbeitsamt angenommen werden.
     - Erhalte einen konstanten Zahltag, verkaufe Chicken Buckets für mehr Geld
