@@ -7,7 +7,8 @@ CHANGE LOG:
 **Job Änderungen**
 
 - Müllabfuhr Job Hinzugefügt
-  
+    - Kann über das Arbeitsamt angenommen werden.
+    - Erhalte einen konstanten Zahltag, fahre Müllrouten ab und verdiene dein Geld dadurch
 - Elektriker Job Update
     - Kann über das Arbeitsamt angenommen werden.
     - Erhalte einen konstanten Zahltag, repariere Lampen in der Stadt
