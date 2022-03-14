@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**14.03.2021**
+
+**Job Änderungen**
+
+- KFC Job Hinzugefügt
+
+
+
 **13.03.2021**
 
 **Allgemeine Änderungen**
