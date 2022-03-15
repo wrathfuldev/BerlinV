@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Fehlende Übersetzungen geupdated
+    - Wenn noch mehr vorkommt bitte ein allgemeines support ticket öffnen
 - Nahkampfwaffen Änderungen (Messern Schlagring)
     - Badfraks haben nun eine Werkbank wo sie diese Herstellen können
 - Weedroute Änderungen
