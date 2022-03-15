@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Neue Spezialimports:**
 
+- YAMAHA Aerox
 
 
 **Neue Route:**
