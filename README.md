@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Automatisches Rechnungs Bezahlsystem Hinzugefügt
 - Server Optimierung
 
 
