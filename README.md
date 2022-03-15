@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Weedroute Änderungen
+    - Neuer Strain Hinzugefügt
+    - Vorbeiteitungen für größeres update
 - Waffenshop Änderungen
     - Schussvesten Entfernt
     - Messer Entfernt
