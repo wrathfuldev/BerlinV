@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Nahkampfwaffen Änderungen (Messern Schlagring)
+    - Badfrags haben nun eine Werkbank wo sie diese Herstellen können
 - Weedroute Änderungen
     - Neuer Strain Hinzugefügt
     - Vorbeiteitungen für größeres update
