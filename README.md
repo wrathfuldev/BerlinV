@@ -7,6 +7,7 @@ CHANGE LOG:
 **Neue Spezialimports:**
 
 - YAMAHA Aerox
+- BMW S1000 Drag
 
 
 **Neue Route:**
