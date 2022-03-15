@@ -6,9 +6,10 @@ CHANGE LOG:
 
 **Neue Items**
 
-- XXX Waffeneil
-- XXX Waffenteil
-- XXX Waffenteil
+- Keramikgranulat
+- XXX Verklebtes Waffeneil
+- XXX Verklebtes Waffenteil
+- XXX Verklebtes Waffenteil
 - XXX Waffeneil
 - XXX Waffenteil
 - XXX Waffenteil
