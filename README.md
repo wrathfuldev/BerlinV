@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Waffenshop Änderungen
+    - Schussvesten Entfernt
+    - Messer Entfernt
 - Items für neue Routen Hinzugefügt
 - Vorbereitungen für neue Routen
 - Automatisches Rechnungs Bezahlsystem Hinzugefügt
