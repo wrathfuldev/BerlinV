@@ -18,6 +18,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Gangs können nun Joints Drehen und diese verkaufen
 - Discord neue Ticket art Hinzugefügt
 - Fehlende Übersetzungen geupdated
     - Wenn noch mehr vorkommt bitte ein allgemeines support ticket öffnen
