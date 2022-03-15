@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Items für neue Routen Hinzugefügt
 - Vorbereitungen für neue Routen
 - Automatisches Rechnungs Bezahlsystem Hinzugefügt
 - Server Optimierung
