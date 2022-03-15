@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **15.03.2021**
 
+**Neue Items**
+
+
+
 **Allgemeine Änderungen**
 
 - Discord neue Ticket art Hinzugefügt
