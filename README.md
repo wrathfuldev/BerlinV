@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Discord neue Ticket art Hinzugefügt
 - Fehlende Übersetzungen geupdated
     - Wenn noch mehr vorkommt bitte ein allgemeines support ticket öffnen
 - Nahkampfwaffen Änderungen (Messern Schlagring)
