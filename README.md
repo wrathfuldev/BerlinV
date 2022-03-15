@@ -18,6 +18,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Roadmap update
+    - https://great-saxophone-3c1.notion.site/c278a405018e4c94ba08493a4354c5d3?v=c2886f4d17d1424fbb1ad87416a269a9
 - Gangs können nun Joints Drehen und diese verkaufen
 - Discord neue Ticket art Hinzugefügt
 - Fehlende Übersetzungen geupdated
