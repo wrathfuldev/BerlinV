@@ -4,6 +4,13 @@ CHANGE LOG:
 
 **14.03.2021**
 
+**Allgemeine Änderungen**
+
+- Server Optimierung
+
+
+**14.03.2021**
+
 **Job Änderungen**
 
 - Müllabfuhr Job Hinzugefügt
