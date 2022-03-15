@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **Neue Items**
 
+- XXX Waffeneil
+- XXX Waffenteil
+- XXX Waffenteil
 
 
 **Allgemeine Änderungen**
