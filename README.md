@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Mülleimer durchsuchen Angepasst
 - Autohaus Update
 - Feuerwehr Update
     - Kühlschrank Hinzugefügt
