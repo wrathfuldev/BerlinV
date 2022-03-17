@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Gewicht angepasst von Items
 - Alle Kleidungen Hinzugefügt
 - Müllabfuhr Job Angepasst
 - Mülleimer durchsuchen Angepasst
