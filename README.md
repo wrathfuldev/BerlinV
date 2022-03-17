@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Flugschein Hinzugefügt
 - Gewicht angepasst von Items
 - Alle Kleidungen Hinzugefügt
 - Müllabfuhr Job Angepasst
