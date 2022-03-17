@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Autohaus Update
 - Feuerwehr Update
     - Kühlschrank Hinzugefügt
     - Lager Hinzugefügt
