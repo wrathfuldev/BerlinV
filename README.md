@@ -7,7 +7,8 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Feuerwehr Update
-
+    - Kühlschrank Hinzugefügt
+    
 
 
 **15.03.2021**
