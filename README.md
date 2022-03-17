@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Müllabfuhr Job Angepasst
 - Mülleimer durchsuchen Angepasst
 - Autohaus Update
 - Feuerwehr Update
