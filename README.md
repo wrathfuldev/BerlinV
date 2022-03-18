@@ -9,6 +9,7 @@ CHANGE LOG:
 
 - Baggy mit Kokain
 - Baggy mit Weed
+- Baggy mit Purple Haze
 
 **Allgemeine Änderungen**
 
