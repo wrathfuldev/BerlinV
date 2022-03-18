@@ -8,7 +8,7 @@ CHANGE LOG:
 **Neue Items**
 
 - Baggy mit Kokain
-
+- Baggy mit Weed
 
 **Allgemeine Änderungen**
 
