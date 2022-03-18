@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**18.03.2021**
+
+**Allgemeine Änderungen**
+
+- Drogen (Weed, Cocain, Opium) verarbeiter Hinzugefügt
+
+
+
 **17.03.2021**
 
 **Allgemeine Änderungen**
