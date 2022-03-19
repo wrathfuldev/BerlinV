@@ -2,8 +2,16 @@
 
 CHANGE LOG:
 
-**18.03.2021**
+**19.03.2021**
 
+**Allgemeine Änderungen**
+
+- Husqvarna sound fix
+- M5 sound fix
+- C63 Sound fix
+
+
+**18.03.2021**
 
 **Neue Items**
 
