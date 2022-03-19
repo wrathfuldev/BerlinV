@@ -11,6 +11,7 @@ CHANGE LOG:
 - Baggy mit Weed
 - Baggy mit Purple Haze
 - Baggy mit Gelato Weed
+- Baggy mit Opium Hinzugefügt
 
 **Allgemeine Änderungen**
 
