@@ -2,6 +2,15 @@
 
 CHANGE LOG:
 
+**20.03.2021**
+
+**Allgemeine Änderungen**
+
+- Auto designs angepasst
+    - Hazmat
+    - Polizei Helikopter
+
+
 **19.03.2021**
 
 **Allgemeine Änderungen**
