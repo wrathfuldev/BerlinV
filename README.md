@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**24.03.2021**
+
+**Allgemeine Änderungen**
+
+- Allgemeine Bug Fixes
+
+
+
 **20.03.2021**
 
 **Allgemeine Änderungen**
