@@ -9,6 +9,7 @@ CHANGE LOG:
 - Vorbereitung für neue Route
 - Regen Deaktiviert vorerst
 - Autos Angepasst 
+- Vorbereitung für neue Autos im Katalog
 
 
 **24.03.2021**
