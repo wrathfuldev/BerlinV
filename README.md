@@ -7,7 +7,8 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Vorbereitung für neue Route
-- Regen Deaktiviert vorerst 
+- Regen Deaktiviert vorerst
+- Autos Angepasst 
 
 
 **24.03.2021**
