@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**28.03.2021**
+
+**Allgemeine Änderungen**
+
+- Neuer Standort für die Versicherung Hinzugefügt
+
+
+
 **27.03.2021**
 
 **Allgemeine Änderungen**
