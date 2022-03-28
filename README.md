@@ -7,7 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Neuer Standort für die Versicherung Hinzugefügt
-
+- Versicherung NOT FOUND Fix 
 
 
 **27.03.2021**
