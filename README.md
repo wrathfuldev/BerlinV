@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- RP Performance neuer Standort
 - SG Tor 2 Fix
 - Regen seltener gemacht
 - Gefängnis Handy + Funkgerät Shop Hinzugefügt
