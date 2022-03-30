@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Gefängnis kaufbare Fahrzeuge Hinzugefügt
 - LUFT Versicherung Hinzugefügt
 - BOOT Versicherung Hinzugefügt
 
