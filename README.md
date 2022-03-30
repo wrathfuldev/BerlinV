@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Regen seltener gemacht
 - Gefängnis Handy + Funkgerät Shop Hinzugefügt
 - Gefängnis kaufbare Fahrzeuge Hinzugefügt
 - LUFT Versicherung Hinzugefügt
