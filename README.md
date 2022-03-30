@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Gefängnis Handy + Funkgerät Shop Hinzugefügt
 - Gefängnis kaufbare Fahrzeuge Hinzugefügt
 - LUFT Versicherung Hinzugefügt
 - BOOT Versicherung Hinzugefügt
