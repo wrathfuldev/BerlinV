@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**30.03.2021**
+
+**Allgemeine Änderungen**
+
+- LUFT Versicherung Hinzugefügt
+
+
 **28.03.2021**
 
 **Allgemeine Änderungen**
