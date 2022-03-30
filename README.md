@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - LUFT Versicherung Hinzugefügt
+- BOOT Versicherung Hinzugefügt
 
 
 **28.03.2021**
