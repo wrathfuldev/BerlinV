@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- SG Tor 2 Fix
 - Regen seltener gemacht
 - Gefängnis Handy + Funkgerät Shop Hinzugefügt
 - Gefängnis kaufbare Fahrzeuge Hinzugefügt
