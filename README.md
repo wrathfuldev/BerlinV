@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**02.04.2021**
+
+**Allgemeine Änderungen**
+
+- Geldautomat Raub Geld Angepasst
+
+
 **01.04.2021**
 
 **Allgemeine Änderungen**
