@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Geldautomat Raub Geld Angepasst
 - Brabus850 max. Geschwindigkeit Angepasst
+- Breitbau Supra max. Geschwindigkeit Angepasst
 
 
 **01.04.2021**
