@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Geldautomat Raub Geld Angepasst
+- Brabus850 max. Geschwindigkeit Angepasst
 
 
 **01.04.2021**
