@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Credits Fix
 - Neues Doorlock System
 
 
