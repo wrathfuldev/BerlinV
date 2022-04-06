@@ -7,7 +7,8 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Autohaus Script Update
-
+- Animationen für Schießen Hinzugefügt
+    - Ingame command: /as
 
 
 **05.04.2021**
