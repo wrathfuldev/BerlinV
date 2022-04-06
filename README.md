@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Loadingscreen neue Musik
 - Bowling Hinzugefügt
 - Autohaus Script Update
 - Animationen für Schießen Hinzugefügt
