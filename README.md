@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**06.04.2021**
+
+**Allgemeine Änderungen**
+
+- Autohaus Script Update
+
+
+
 **05.04.2021**
 
 **Allgemeine Änderungen**
