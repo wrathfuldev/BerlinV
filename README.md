@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Bowling Hinzugefügt
 - Autohaus Script Update
 - Animationen für Schießen Hinzugefügt
     - Ingame command: /as
