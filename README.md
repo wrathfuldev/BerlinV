@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Übersetzungen Update
 - Bowling vorest entfernt - verdacht auf gamecrash
+- Golf Hinzugefügt
 
 
 
