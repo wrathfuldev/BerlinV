@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**08.04.2021**
+
+**Allgemeine Änderungen**
+
+- Übersetzungen Update
+
+
+
 **06.04.2021**
 
 **Allgemeine Änderungen**
