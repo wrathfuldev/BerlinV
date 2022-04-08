@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Übersetzungen Update
+- Bowling vorest entfernt - verdacht auf gamecrash
 
 
 
