@@ -6,6 +6,7 @@ CHANGE LOG:
 
 - Gang Impala Angepasst
 - E63 AMG Angepasst
+- Tesla Model S Angepasst
 
 
 **08.04.2021**
