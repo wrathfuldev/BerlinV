@@ -2,6 +2,11 @@
 
 CHANGE LOG:
 
+**09.04.2021**
+
+- Gang Impala Angepasst
+
+
 **08.04.2021**
 
 **Allgemeine Änderungen**
