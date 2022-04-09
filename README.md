@@ -9,6 +9,7 @@ CHANGE LOG:
 - Tesla Model S Angepasst
 - Bugatti T41 Angepasst
 - Mustang Mach 1 Angepasst
+- C63 Coupe Angepasst
 
 
 **08.04.2021**
