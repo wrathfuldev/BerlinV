@@ -4,6 +4,13 @@ CHANGE LOG:
 
 **09.04.2021**
 
+**Allgemeine Änderungen**
+
+- Blitzer gefixt beim Militär
+
+
+
+**Auto Änderungen**
 - Gang Impala Angepasst
 - E63 AMG Angepasst
 - Tesla Model S Angepasst
