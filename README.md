@@ -5,6 +5,7 @@ CHANGE LOG:
 **09.04.2021**
 
 - Gang Impala Angepasst
+- E63 AMG Angepasst
 
 
 **08.04.2021**
