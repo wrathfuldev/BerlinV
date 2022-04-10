@@ -8,7 +8,7 @@ CHANGE LOG:
 
 - RSV4 Angepasst
 - 760i Angepasst
-
+- Husqvarna Angepasst
 
 
 **09.04.2021**
