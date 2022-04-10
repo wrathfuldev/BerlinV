@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **10.04.2021**
 
+**Allgemeine Änderungen**
+
+- Kofferraum für Flugzeuge und Helikopter Hinzugefügt
+
 **Auto Änderungen**
 
 - RSV4 Angepasst
