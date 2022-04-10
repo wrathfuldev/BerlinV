@@ -7,6 +7,7 @@ CHANGE LOG:
 **Auto Änderungen**
 
 - RSV4 Angepasst
+- 760i Angepasst
 
 
 
