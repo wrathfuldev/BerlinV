@@ -14,6 +14,7 @@ CHANGE LOG:
 - E63s Brabus Angepasst 
 - Audi S3 Angepasst
 - BMW 760i Angepasst
+- Maybach GLS Angepasst
 
 
 
