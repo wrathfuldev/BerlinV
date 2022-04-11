@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**11.04.2021**
+
+**Allgemeine Änderungen**
+
+- Neue Emotes Hinzugefügt
+
+
 **10.04.2021**
 
 **Allgemeine Änderungen**
