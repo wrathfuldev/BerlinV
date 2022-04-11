@@ -11,6 +11,7 @@ CHANGE LOG:
 - Werkzeugbox für Autos kann nun mehr Reparieren
 - Drag Reifen Hinzugefügt
 - Drift Reifen Hinzugefügt
+- E55 Motor Hinzugefügt
 
 **Auto Änderungen**
 
