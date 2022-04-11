@@ -16,6 +16,7 @@ CHANGE LOG:
 - BMW 760i Angepasst
 - Maybach GLS Angepasst
 - Brabus 850 Angepasst
+- Gang Impala Livery Entfernt
 
 
 
