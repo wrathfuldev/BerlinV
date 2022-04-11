@@ -8,6 +8,11 @@ CHANGE LOG:
 
 - Neue Emotes Hinzugefügt
 
+**Auto Änderungen**
+
+- Audi S8 1998 Angepasst
+
+
 
 **10.04.2021**
 
