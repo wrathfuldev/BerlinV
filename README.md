@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Neue Emotes Hinzugefügt
+- NOS Gefixt
 
 **Auto Änderungen**
 
