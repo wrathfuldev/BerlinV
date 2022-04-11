@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Neue Emotes Hinzugefügt
 - NOS Gefixt
+- Werkzeugbox für Autos kann nun mehr Reparieren
 
 **Auto Änderungen**
 
