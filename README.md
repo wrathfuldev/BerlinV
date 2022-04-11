@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**12.04.2021**
+
+**Allgemeine Änderungen**
+
+- Krankenhaus Patientenkleidung Fix
+-
+
+
 **11.04.2021**
 
 **Allgemeine Änderungen**
