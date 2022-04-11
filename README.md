@@ -10,6 +10,7 @@ CHANGE LOG:
 - NOS Gefixt
 - Werkzeugbox für Autos kann nun mehr Reparieren
 - Drag Reifen Hinzugefügt
+- Drift Reifen Hinzugefügt
 
 **Auto Änderungen**
 
