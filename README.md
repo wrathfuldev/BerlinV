@@ -8,7 +8,7 @@ CHANGE LOG:
 
 - Krankenhaus Patientenkleidung Fix
 - Knast Kleidung Fix
-- Bloos Hood Update
+- Bloods Hood Update
 
 
 **11.04.2021**
