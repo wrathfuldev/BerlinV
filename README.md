@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**13.04.2021**
+
+**Allgemeine Änderungen**
+
+- Osterkorb Gewicht Fix
+
+
+
 **12.04.2021**
 
 **Allgemeine Änderungen**
