@@ -10,6 +10,7 @@ CHANGE LOG:
 - Knast Kleidung Fix
 - Bloods Hood Update
 - Black Market im Kleinanzeigen freigegeben für Gangs,Mafia
+- Kleinanzeigen Bilder Fix
 
 
 **11.04.2021**
