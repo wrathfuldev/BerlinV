@@ -9,6 +9,7 @@ CHANGE LOG:
 - Krankenhaus Patientenkleidung Fix
 - Knast Kleidung Fix
 - Bloods Hood Update
+- Black Market im Kleinanzeigen freigegeben für Gangs,Mafia
 
 
 **11.04.2021**
