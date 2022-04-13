@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Osterkorb Gewicht Fix
+- Ostern Event Beginn
 
 
 
