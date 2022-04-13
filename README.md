@@ -11,6 +11,7 @@ CHANGE LOG:
 - Bloods Hood Update
 - Black Market im Kleinanzeigen freigegeben für Gangs,Mafia
 - Kleinanzeigen Bilder Fix
+- Oster Event Vorbereitungen
 
 
 **11.04.2021**
