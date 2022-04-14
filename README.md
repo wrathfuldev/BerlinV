@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Polizei / Mechaniker Abschlepphof Hinzugefügt
+- Smarte Join Queue Hinzugefügt
 
 
 
