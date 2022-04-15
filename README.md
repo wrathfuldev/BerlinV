@@ -6,7 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
-- Inventar/Fraklager/Lager Iconbilder fix
+- Events Feedback Channel Hinzugefügt
+- Inventar/Fraklager/Lager Iconbilder Fix
 - Mechaniker neues Reapairkit Hinzugefüt
 - Support Wartebereich Änderungen
     - Dieser Channel ist nurnoch erreichbar so wie die Supportzeiten sind
