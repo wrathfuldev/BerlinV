@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+
+- Mechaniker neues Reapairkit Hinzugefüt
 - Support Wartebereich Änderungen
     - Dieser Channel ist nurnoch erreichbar so wie die Supportzeiten sind
     - Es gibt einen zweit Channel den Teamler einschalten können, wenn diese gerade da sind.
