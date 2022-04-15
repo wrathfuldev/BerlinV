@@ -10,6 +10,7 @@ CHANGE LOG:
 - Smarte Join Queue Hinzugefügt
 - Itembilder Fix
 - HUD Einstellungen Angepasst
+- HUD Icons Angepasst
 
 
 **13.04.2021**
