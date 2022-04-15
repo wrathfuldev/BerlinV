@@ -11,6 +11,7 @@ CHANGE LOG:
 - Itembilder Fix
 - HUD Einstellungen Angepasst
 - HUD Icons Angepasst
+- Autohaus Übersetzungen
 
 
 **13.04.2021**
