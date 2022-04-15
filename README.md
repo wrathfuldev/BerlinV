@@ -8,7 +8,7 @@ CHANGE LOG:
 
 - Polizei / Mechaniker Abschlepphof Hinzugefügt
 - Smarte Join Queue Hinzugefügt
-
+- Itembilder Fix
 
 
 **13.04.2021**
