@@ -2,6 +2,15 @@
 
 CHANGE LOG:
 
+**16.04.2021**
+
+**Allgemeine Änderungen**
+
+- Support Wartebereich Änderungen
+    - Dieser Channel ist nurnoch erreichbar so wie die Supportzeiten sind
+    - Es gibt einen zweit Channel den Teamler einschalten können, wenn diese gerade da sind.
+
+
 **15.04.2021**
 
 **Allgemeine Änderungen**
