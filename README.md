@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Metalldetektor Hinzugefügt
 - Vorbereitungen für GPS Chips
+- Dispatch Menü Update
 
 
 **16.04.2021**
