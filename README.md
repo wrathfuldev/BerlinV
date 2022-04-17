@@ -2,11 +2,18 @@
 
 CHANGE LOG:
 
-**16.04.2021**
+**17.04.2021**
 
 **Allgemeine Änderungen**
 
 - Metalldetektor Hinzugefügt
+- Vorbereitungen für GPS Chips
+
+
+**16.04.2021**
+
+**Allgemeine Änderungen**
+
 - Mechaniker können nun:
     - Autos Motor wechseln, wo Motorhaube nicht auf geht
     - Motorräder Reparieren (Öl, Motor, Reifen, etc)
