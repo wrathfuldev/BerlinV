@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Mechaniker können nun:
     - Autos Motor wechseln, wo Motorhaube nicht auf geht
+    - Motorräder Reparieren (Öl, Motor, Reifen, etc)
 - Repairkit Cooldown Hinzugefügt
 - Events Feedback Channel Hinzugefügt
 - Inventar/Fraklager/Lager Iconbilder Fix
