@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Metalldetektor Hinzugefügt
 - Mechaniker können nun:
     - Autos Motor wechseln, wo Motorhaube nicht auf geht
     - Motorräder Reparieren (Öl, Motor, Reifen, etc)
