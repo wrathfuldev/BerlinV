@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- Mechaniker können nun:
 - Repairkit Cooldown Hinzugefügt
 - Events Feedback Channel Hinzugefügt
 - Inventar/Fraklager/Lager Iconbilder Fix
