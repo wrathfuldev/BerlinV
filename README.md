@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Polizei & Rotes Kreuz Heli Kamera Update
 - RK G Klasse Hinzugefügt
+- Pol Sani G Klasse Hinzugefügt
 
 
 **17.04.2021**
