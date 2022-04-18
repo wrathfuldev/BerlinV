@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Polizei & Rotes Kreuz Heli Kamera Update
+- RK G Klasse Hinzugefügt
 
 
 **17.04.2021**
