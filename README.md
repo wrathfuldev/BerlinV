@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
+- GPS Hinzugefügt
 - Polizei & Rotes Kreuz Heli Kamera Update
 - RK G Klasse Hinzugefügt
 - Pol Sani G Klasse Hinzugefügt
