@@ -9,6 +9,10 @@ CHANGE LOG:
 - Polizei & Rotes Kreuz Heli Kamera Update
 - RK G Klasse Hinzugefügt
 - Pol Sani G Klasse Hinzugefügt
+- Schloss Änderungen
+    - JVA Zugangskarte Hinzugefügt
+    - Feile Hinzugefügt
+    - Lockpicks können keine Türen mehr öffnen nurnoch Feilen
 
 
 **17.04.2021**
