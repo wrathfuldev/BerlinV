@@ -8,7 +8,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - M4 Discord Angepasst
-
+- Nissan R35 Angepasst
 
 
 **19.04.2021**
