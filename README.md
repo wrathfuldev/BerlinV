@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Shisha Cafe Hinzugefügt
 - Polizei Zivil Autos Hinzugefügt
+- Kleine Bug Fixes bei der Versicherung
 
 
 
