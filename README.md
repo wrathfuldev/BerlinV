@@ -12,6 +12,10 @@ CHANGE LOG:
 - Neue Motoren Hinzugefügt
 - Motorenroute Hinzugefügt
 
+**Autos Änderungen**
+
+- BMW 760i Angepasst
+
 
 
 **20.04.2021**
