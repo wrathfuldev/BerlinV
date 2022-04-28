@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Shisha Cafe Hinzugefügt
+- Polizei Zivil Autos Hinzugefügt
 
 
 
