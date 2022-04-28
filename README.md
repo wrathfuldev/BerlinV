@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**28.04.2021**
+
+**Allgemeine Änderungen**
+
+- Shisha Cafe Hinzugefügt
+
+
 
 **20.04.2021**
 
