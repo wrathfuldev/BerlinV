@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Inventar Script Update
+- Munitions Fix
 
 
 **28.04.2021**
