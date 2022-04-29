@@ -9,7 +9,7 @@ CHANGE LOG:
 - Inventar Script Update
 - Munitions Fix
 - Tank Kanister Hinzugefügt
--
+- Eigene Tankstellen Entfernt
 
 
 **28.04.2021**
