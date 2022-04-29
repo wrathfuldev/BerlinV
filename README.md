@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**29.04.2021**
+
+**Allgemeine Änderungen**
+
+- Inventar Script Update
+
+
 **28.04.2021**
 
 **Allgemeine Änderungen**
