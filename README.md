@@ -8,6 +8,8 @@ CHANGE LOG:
 
 - Inventar Script Update
 - Munitions Fix
+- Tank Kanister Hinzugefügt
+-
 
 
 **28.04.2021**
