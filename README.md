@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Mercedes Sprinter Kofferraum Angepasst
 - Pounder Kofferraum Angepasst
+- Benson Kofferraum Angepasst
 
 
 **29.04.2021**
