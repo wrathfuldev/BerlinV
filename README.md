@@ -11,6 +11,7 @@ CHANGE LOG:
 - Heckantrieb Hinzugefügt
 - Frontantrieb Hinzugefügt
 - AWD Hinzugefügt
+- Versicherung Bug Fix
 
 
 **01.05.2021**
