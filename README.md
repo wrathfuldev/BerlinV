@@ -12,6 +12,8 @@ CHANGE LOG:
 - Frontantrieb Hinzugefügt
 - AWD Hinzugefügt
 - Versicherung Bug Fix
+- Sitzgurt Angepasst 
+    - Wenn Angeschnallt kann man nicht aussteigen
 
 
 **01.05.2021**
