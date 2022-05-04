@@ -10,6 +10,7 @@ CHANGE LOG:
 - 2JZ Motor Supra Sound Hinzugefügt
 - Heckantrieb Hinzugefügt
 - Frontantrieb Hinzugefügt
+- AWD Hinzugefügt
 
 
 **01.05.2021**
