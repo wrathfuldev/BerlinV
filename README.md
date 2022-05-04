@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Neues Kleidungspack Hinzugefügt
 - 2JZ Motor Supra Sound Hinzugefügt
+- Heckantrieb Hinzugefügt
 
 
 **01.05.2021**
