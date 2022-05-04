@@ -2,6 +2,14 @@
 
 CHANGE LOG:
 
+**04.05.2021**
+
+**Allgemeine Änderungen**
+
+- Neues Kleidungspack Hinzugefügt
+
+
+
 **01.05.2021**
 
 **Allgemeine Änderungen**
