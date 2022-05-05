@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Frak Autos Kofferraum Fix
 - Frak Autos Handschuhfach Fix
+- Vorbereitungen für Auftragsmörder
 
 **04.05.2021**
 
