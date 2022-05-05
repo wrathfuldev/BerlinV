@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**06.05.2021**
+
+**Allgemeine Änderungen**
+
+- Frak Autos Kofferraum Fix
+
+
 **04.05.2021**
 
 **Allgemeine Änderungen**
