@@ -7,7 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Frak Autos Kofferraum Fix
-
+- Frak Autos Handschuhfach Fix
 
 **04.05.2021**
 
