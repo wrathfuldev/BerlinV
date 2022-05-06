@@ -9,6 +9,7 @@ CHANGE LOG:
 - Frak Autos Kofferraum Fix
 - Frak Autos Handschuhfach Fix
 - Vorbereitungen für Auftragsmörder
+- SaltyChat NUI Update
 
 **04.05.2021**
 
