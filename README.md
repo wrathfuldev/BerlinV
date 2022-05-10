@@ -4,6 +4,11 @@ CHANGE LOG:
 
 **10.05.2022**
 
+**Allgemeine Änderungen**
+
+
+
+
 **UI Änderungen**
 
 - Admincall Angepasst
