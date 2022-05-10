@@ -8,6 +8,8 @@ CHANGE LOG:
 
 - Admincall Angepasst
 - Fraklager Angepasst
+- Lager Angepasst
+
 
 
 **Komprimierungen**
