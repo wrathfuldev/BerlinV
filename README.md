@@ -7,6 +7,7 @@ CHANGE LOG:
 **Polizei Änderungen**
 
 - PD Dispatches bei Labor explosion
+- PD Dispatches Angepasst
 
 
 **Allgemeine Änderungen**
