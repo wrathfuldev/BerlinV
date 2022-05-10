@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **UI Änderungen**
 
+- Admincall Angepasst
+
 
 
 **Komprimierungen**
