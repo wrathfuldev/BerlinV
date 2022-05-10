@@ -4,7 +4,9 @@ CHANGE LOG:
 
 **12.05.2022**
 
-**Komprimierungen Änderungen**
+**Komprimierungen**
+
+- Einige MLO's Komprimiert
 
 
 
