@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 
 - Random Helikopter Sounds Entfernt
+- Random Polizei Sirenen Entfernt
 
 
 **UI Änderungen**
