@@ -7,7 +7,7 @@ CHANGE LOG:
 **UI Änderungen**
 
 - Admincall Angepasst
-
+- Fraklager Angepasst
 
 
 **Komprimierungen**
