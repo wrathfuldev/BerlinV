@@ -7,7 +7,7 @@ CHANGE LOG:
 **Komprimierungen**
 
 - Einige MLO's Komprimiert
-
+- Alle Fahrzeuge Komprimiert
 
 
 **06.05.2022**
