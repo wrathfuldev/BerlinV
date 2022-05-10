@@ -8,6 +8,7 @@ CHANGE LOG:
 
 - Einige MLO's Komprimiert
 - Alle Fahrzeuge Komprimiert
+- Alle Soundpacks Komprimiert
 
 
 **06.05.2022**
