@@ -6,7 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 
-
+- Random Helikopter Sounds Entfernt
 
 
 **UI Änderungen**
