@@ -14,7 +14,7 @@ CHANGE LOG:
 
 - Random Helikopter Sounds Entfernt
 - Random Polizei Sirenen Entfernt
-- 
+- Neue Jobs Hinzugefügt im Arbeitsamt
 
 
 **UI Änderungen**
