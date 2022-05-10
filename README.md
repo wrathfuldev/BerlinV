@@ -2,7 +2,13 @@
 
 CHANGE LOG:
 
-**06.05.2021**
+**12.05.2022**
+
+**Komprimierungen Änderungen**
+
+
+
+**06.05.2022**
 
 **Allgemeine Änderungen**
 
@@ -11,7 +17,7 @@ CHANGE LOG:
 - Vorbereitungen für Auftragsmörder
 - SaltyChat NUI Update
 
-**04.05.2021**
+**04.05.2022**
 
 **Allgemeine Änderungen**
 
@@ -25,7 +31,7 @@ CHANGE LOG:
     - Wenn Angeschnallt kann man nicht aussteigen
 
 
-**01.05.2021**
+**01.05.2022**
 
 **Allgemeine Änderungen**
 
@@ -34,7 +40,7 @@ CHANGE LOG:
 - Benson Kofferraum Angepasst
 
 
-**29.04.2021**
+**29.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -44,7 +50,7 @@ CHANGE LOG:
 - Eigene Tankstellen Entfernt
 
 
-**28.04.2021**
+**28.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -60,7 +66,7 @@ CHANGE LOG:
 
 
 
-**20.04.2021**
+**20.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -68,7 +74,7 @@ CHANGE LOG:
 - Nissan R35 Angepasst
 
 
-**19.04.2021**
+**19.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -79,7 +85,7 @@ CHANGE LOG:
     - Lockpicks können keine Türen mehr öffnen nurnoch Feilen
 
 
-**18.04.2021**
+**18.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -88,7 +94,7 @@ CHANGE LOG:
 - Pol Sani G Klasse Hinzugefügt
 
 
-**17.04.2021**
+**17.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -97,7 +103,7 @@ CHANGE LOG:
 - Dispatch Menü Update
 
 
-**16.04.2021**
+**16.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -113,7 +119,7 @@ CHANGE LOG:
     - Es gibt einen zweit Channel den Teamler einschalten können, wenn diese gerade da sind.
 
 
-**15.04.2021**
+**15.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -125,7 +131,7 @@ CHANGE LOG:
 - Autohaus Übersetzungen
 
 
-**13.04.2021**
+**13.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -134,7 +140,7 @@ CHANGE LOG:
 
 
 
-**12.04.2021**
+**12.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -146,7 +152,7 @@ CHANGE LOG:
 - Oster Event Vorbereitungen
 
 
-**11.04.2021**
+**11.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -170,7 +176,7 @@ CHANGE LOG:
 
 
 
-**10.04.2021**
+**10.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -183,7 +189,7 @@ CHANGE LOG:
 - Husqvarna Angepasst
 
 
-**09.04.2021**
+**09.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -200,7 +206,7 @@ CHANGE LOG:
 - C63 Coupe Angepasst
 
 
-**08.04.2021**
+**08.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -210,7 +216,7 @@ CHANGE LOG:
 
 
 
-**06.04.2021**
+**06.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -221,7 +227,7 @@ CHANGE LOG:
     - Ingame command: /as
 
 
-**05.04.2021**
+**05.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -229,7 +235,7 @@ CHANGE LOG:
 - Neues Doorlock System
 
 
-**02.04.2021**
+**02.04.2022**
 
 **Allgemeine Änderungen**
 
@@ -238,14 +244,14 @@ CHANGE LOG:
 - Breitbau Supra max. Geschwindigkeit Angepasst
 
 
-**01.04.2021**
+**01.04.2022**
 
 **Allgemeine Änderungen**
 
 - Patienten/Knast Kleidungs fix für Frauen
 
 
-**30.03.2021**
+**30.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -258,7 +264,7 @@ CHANGE LOG:
 - BOOT Versicherung Hinzugefügt
 
 
-**28.03.2021**
+**28.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -266,7 +272,7 @@ CHANGE LOG:
 - Versicherung NOT FOUND Fix 
 
 
-**27.03.2021**
+**27.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -276,7 +282,7 @@ CHANGE LOG:
 - Vorbereitung für neue Autos im Katalog
 
 
-**24.03.2021**
+**24.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -284,7 +290,7 @@ CHANGE LOG:
 - Neue Tänze Hinzugefügt
 
 
-**20.03.2021**
+**20.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -293,7 +299,7 @@ CHANGE LOG:
     - Polizei Helikopter
 
 
-**19.03.2021**
+**19.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -302,7 +308,7 @@ CHANGE LOG:
 - C63 Sound fix
 
 
-**18.03.2021**
+**18.03.2022**
 
 **Neue Items**
 
@@ -318,7 +324,7 @@ CHANGE LOG:
 
 
 
-**17.03.2021**
+**17.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -333,7 +339,7 @@ CHANGE LOG:
     - Lager Hinzugefügt
 
 
-**15.03.2021**
+**15.03.2022**
 
 **Neue Spezialimports:**
 
@@ -381,7 +387,7 @@ CHANGE LOG:
 - Server Optimierung
 
 
-**14.03.2021**
+**14.03.2022**
 
 **Job Änderungen**
 
@@ -396,14 +402,14 @@ CHANGE LOG:
     - Erhalte einen konstanten Zahltag, verkaufe Chicken Buckets für mehr Geld
 
 
-**13.03.2021**
+**13.03.2022**
 
 **Allgemeine Änderungen**
 
 - Kofferraum Verstecken Hinzugefügt
 
 
-**12.03.2021**
+**12.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -413,7 +419,7 @@ CHANGE LOG:
 
 
 
-**11.03.2021**
+**11.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -422,7 +428,7 @@ CHANGE LOG:
 
 
 
-**10.03.2021**
+**10.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -432,7 +438,7 @@ CHANGE LOG:
 
 
 
-**08.03.2021**
+**08.03.2022**
 
 **Job Erneuerungen:**
 
@@ -449,16 +455,16 @@ CHANGE LOG:
 - Müllermilch Schokolade Hinzugefügt
 - Müllermilch Banane Hinzugefügt
 
-**07.03.2021**
+**07.03.2022**
 
 - Rauchbare Joints/Vape Hinzugefügt
 
-**05.03.2021**
+**05.03.2022**
 
 - Neuer Donator Auto Katalog
 - Luxus Autohaus neue Autos
 
-**04.03.2021**
+**04.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -467,7 +473,7 @@ CHANGE LOG:
 
 
 
-**02.03.2021**
+**02.03.2022**
 
 **Allgemeine Änderungen**
 
@@ -481,7 +487,7 @@ CHANGE LOG:
 - Migration auf neuen Server
 
 
-**28.02.2021**
+**28.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -489,7 +495,7 @@ CHANGE LOG:
 
 
 
-**27.02.2021**
+**27.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -497,7 +503,7 @@ CHANGE LOG:
 
 
 
-**26.02.2021**
+**26.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -514,7 +520,7 @@ CHANGE LOG:
 
 
 
-**24.02.2021**
+**24.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -525,7 +531,7 @@ CHANGE LOG:
 - Helikopter Einparken Gefixt
 
 
-**23.02.2021**
+**23.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -541,7 +547,7 @@ CHANGE LOG:
 - Bloods
 
 
-**21.02.2021**
+**21.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -554,7 +560,7 @@ CHANGE LOG:
 - Server optimierung
 
 
-**19.02.2021**
+**19.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -566,7 +572,7 @@ CHANGE LOG:
 - Würfelpark Update
 
 
-**18.02.2021**
+**18.02.2022**
 
 **Allgemeine Änderungen**
 
@@ -581,7 +587,7 @@ CHANGE LOG:
     - Ziehe anderen Spielern einen Sack über den Kopf
 
 
-**17.02.2021**
+**17.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -601,7 +607,7 @@ CHANGE LOG:
 - Versicherung Bild für normale GTA Autos Hinzugefügt
 
 
-**16.02.2021**
+**16.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -614,7 +620,7 @@ CHANGE LOG:
 
 
 
-**15.02.2021**
+**15.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -624,7 +630,7 @@ CHANGE LOG:
 - Autohaus Vorschaubilder Hinzugefügt
 
 
-**14.02.2021**
+**14.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -636,7 +642,7 @@ CHANGE LOG:
 - Donatorshop Angepasst
 
 
-**13.02.2021**
+**13.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -648,7 +654,7 @@ CHANGE LOG:
 - Server Optimierung
 
 
-**12.02.2021**
+**12.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -658,7 +664,7 @@ CHANGE LOG:
     - Design Angepasst
     - Kühlschank hinzugefügt mit essen
 
-**11.02.2021**
+**11.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -676,7 +682,7 @@ CHANGE LOG:
 
 
 
-**10.02.2021**
+**10.02.2022**
 
 **Neues Item:**
 
@@ -693,7 +699,7 @@ CHANGE LOG:
 - Arcade Halle Hinzugefügt
 
 
-**09.02.2021**
+**09.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -705,7 +711,7 @@ CHANGE LOG:
 - Random Crashes in der Stadt gefixt
 
 
-**08.02.2021**
+**08.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -717,7 +723,7 @@ CHANGE LOG:
 - Kleine Performance Optimierungen
 
 
-**07.02.2021**
+**07.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -726,7 +732,7 @@ CHANGE LOG:
 - Auto Tuning/Drift Szene Location Hinzugefügt
 
 
-**06.02.2021**
+**06.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -736,7 +742,7 @@ CHANGE LOG:
 - Neues Bank System mit Bankomat
 
 
-**05.02.2021**
+**05.02.2022**
 
 **Neue Kleidung:**
 
@@ -765,7 +771,7 @@ CHANGE LOG:
 - Carsharing Script Verbessert
 
 
-**04.02.2021**
+**04.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -783,7 +789,7 @@ CHANGE LOG:
 - Hochzeitskleider für Frauen
 
 
-**03.02.2021**
+**03.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -798,7 +804,7 @@ CHANGE LOG:
     - Siehe discord commands für mehr Infos
 
 
-**02.02.2021**
+**02.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -814,7 +820,7 @@ CHANGE LOG:
 - Polizei Lizenz verwaltungssystem hinzugefügt
 
 
-**01.02.2021**
+**01.02.2022**
 
 **Allgemeine Änderungen:**
 
@@ -829,7 +835,7 @@ CHANGE LOG:
     - Mehr Infos im Donatorshop und im Regelwerk
 
 
-**31.01.2021**
+**31.01.2022**
 
 **Allgemeine Änderungen:**
 - Pistolenroute Gefixt
@@ -840,7 +846,7 @@ CHANGE LOG:
 - Tattooshop Entfernt bis bugs behoben wurden
 - Aston Martin DBX Angepasst
 
-**30.01.2021**
+**30.01.2022**
 
 - Alle Polizei Autos haben nun Deutsches design
 - Keybind command hinzugefügt
@@ -849,7 +855,7 @@ CHANGE LOG:
 - Tank angepasst
 - Apfelsatroute Änerungen
 
-**29.01.2021**
+**29.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -861,7 +867,7 @@ CHANGE LOG:
 - Aston Martin DBX änderungen
     - Schneller gemacht
 
-**28.01.2021**
+**28.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -876,7 +882,7 @@ CHANGE LOG:
 - Scoreboard keybind geändert auf 5
 
 
-**27.01.2021**
+**27.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -895,7 +901,7 @@ CHANGE LOG:
 - Billiard hinzugefügt
 
 
-**26.01.2021**
+**26.01.2022**
 
 **Allgemeine Änderungen:**
 - Fahrzeuge Angepasst
@@ -905,7 +911,7 @@ CHANGE LOG:
 - Server wieder online
 - Kleine Verbesserungen
 
-**24.01.2021**
+**24.01.2022**
 
 - Website Online Gestellt
     - https://fwrp.cc
@@ -915,7 +921,7 @@ CHANGE LOG:
 - Credits Store Geupdated
     - Neue Items Hinzugefügt
 
-**23.01.2021**
+**23.01.2022**
 
 **Discord Änderungen:**
     - Discord Ticket System Aktualisiert
@@ -940,7 +946,7 @@ CHANGE LOG:
 - Bloods Tor Hinzugefügt
 
 
-**22.01.2021**
+**22.01.2022**
 
 **Neue Items:**
 
@@ -983,7 +989,7 @@ CHANGE LOG:
 - LKW Kofferaum Angepasst
 
 
-**20.01.2021**
+**20.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -995,7 +1001,7 @@ CHANGE LOG:
 - LKW zum Autoshop Hinzugefügt
 
 
-**19.01.2021**
+**19.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -1023,7 +1029,7 @@ CHANGE LOG:
     - B = Megafon
     - Selber Keybinds anpassen
 
-**18.01.2021**
+**18.01.2022**
 
 **Neue Nahrung:**
 
@@ -1049,7 +1055,7 @@ CHANGE LOG:
 - Ladebildschirm Regeln Hinzugefügt
 
 
-**17.01.2021**
+**17.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -1079,7 +1085,7 @@ CHANGE LOG:
 - Rucksack Hinzugefügt
     - Ist Donator item
 
-**16.01.2021**
+**16.01.2022**
 
 **Allgemeine Änderungen:**
 
@@ -1097,7 +1103,7 @@ CHANGE LOG:
 - Eigene Tankstellen angepasst
 
 
-**15.01.2021**
+**15.01.2022**
 
 **Neue Items:**
 
@@ -1120,7 +1126,7 @@ CHANGE LOG:
 - Nurnoch Mechaniker können Fahzeuge tunen
 
 
-**14.01.2021**
+**14.01.202**
 
 -  Donator Shop hinzugefügt
     - https://futureworldrp.tebex.io/category/1982979
@@ -1143,7 +1149,7 @@ Neue Items:
 - Rubbellose Hinzugefügt
 
 
-**13.01.2021**
+**13.01.2022**
 
 - Start Alpha Phase
 
