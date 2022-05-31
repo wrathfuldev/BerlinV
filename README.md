@@ -11,6 +11,7 @@ CHANGE LOG:
 - Ticket Bot Änderungen
 - Discord Music Bot Hinzugefügt für Stammtisch
 - Memes Channel Hinzugefügt
+- Alpha Rolle Eingeschränkt
 
 
 
