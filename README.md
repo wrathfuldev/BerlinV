@@ -25,6 +25,7 @@ Deutsche Uniformen für:
 
 **Routen Überarbeitet**
 - Verarbeitete Drogen Preise Überarbeitet
+- Verkaufen per Boot/Wasser Update
 
 
 
