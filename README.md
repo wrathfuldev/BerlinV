@@ -10,6 +10,7 @@ CHANGE LOG:
 - Discord Rollen Änderungen
 - Ticket Bot Änderungen
 - Discord Music Bot Hinzugefügt für Stammtisch
+- Memes Channel Hinzugefügt
 
 
 
