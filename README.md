@@ -13,6 +13,7 @@ CHANGE LOG:
 - Memes Channel Hinzugefügt
 - Alpha Rolle Eingeschränkt
 - Vorbereitungen für Beta Phase
+- Discord RichPresence Update
 
 
 
