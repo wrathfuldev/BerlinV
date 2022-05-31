@@ -77,6 +77,7 @@ Deutsche Uniformen für:
 - Gruppenchats 
 - Bank + Rechnungen Update
 - Crypto Markt 
+- Viele neue Apps
 
 
 
