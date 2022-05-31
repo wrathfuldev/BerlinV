@@ -79,6 +79,7 @@ Deutsche Uniformen für:
 - Crypto Markt 
 - Viele neue Apps
 - Taxi Rufen (mit Job verbunden)
+- Bilder Fix
 
 
 
