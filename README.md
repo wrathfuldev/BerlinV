@@ -17,6 +17,8 @@ CHANGE LOG:
 
 **Uniformen Update**
 Deutsche Uniformen für:
+- Polizei
+
 
 
 
