@@ -43,7 +43,9 @@ Deutsche Uniformen für:
 - Shop Angepasst
 
 **Neu Hinzugefügt**
-
+- 4 Minuten join delay nach server restart
+    - Damit alle scripts sicher starten können oder sich mit der DB verbinden können
+    -  Fixt damit auch das Spawnen als Michael
 
 
 **10.05.2022**
