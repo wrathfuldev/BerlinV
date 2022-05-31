@@ -74,6 +74,7 @@ Deutsche Uniformen für:
 - Streamer Modus
 - Flugmodus
 - FaceTime anrufen
+- Gruppenchats 
 
 
 
