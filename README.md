@@ -76,6 +76,7 @@ Deutsche Uniformen für:
 - FaceTime anrufen
 - Gruppenchats 
 - Bank + Rechnungen Update
+- Crypto Markt 
 
 
 
