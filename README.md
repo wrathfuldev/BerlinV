@@ -15,6 +15,8 @@ CHANGE LOG:
 - Vorbereitungen für Beta Phase
 - Discord RichPresence Update
 
+**Uniformen Update**
+
 
 
 
