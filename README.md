@@ -46,6 +46,8 @@ Deutsche Uniformen für:
 - 4 Minuten join delay nach server restart
     - Damit alle scripts sicher starten können oder sich mit der DB verbinden können
     -  Fixt damit auch das Spawnen als Michael
+- Feuerwerk + Shop Hinzufügen
+
 
 
 **10.05.2022**
