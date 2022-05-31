@@ -72,6 +72,7 @@ Deutsche Uniformen für:
 **Handy Update**
 - Handy wurde komplett überarbeitet
 - Streamer Modus
+- Flugmodus
 
 
 
