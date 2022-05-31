@@ -12,6 +12,7 @@ CHANGE LOG:
 - Discord Music Bot Hinzugefügt für Stammtisch
 - Memes Channel Hinzugefügt
 - Alpha Rolle Eingeschränkt
+- Vorbereitungen für Beta Phase
 
 
 
