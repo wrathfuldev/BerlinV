@@ -60,6 +60,7 @@ Deutsche Uniformen für:
 - Interaktions Menü Angepasst
 - Boss Menü Überarbeitet
 - Backdoors Gefixt
+- Custom Felgen Hinzugefügt
 
 
 
