@@ -8,6 +8,7 @@ CHANGE LOG:
 
 **Discord Änderungen**
 - Discord Rollen Änderungen
+- Ticket Bot Änderungen
 
 
 
