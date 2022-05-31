@@ -103,6 +103,7 @@ Deutsche Uniformen für:
 - LaFerrari Sound Angepasst
 - F12 Sound Angepasst
 - Königsegg Zondar Sound Angepasst
+- Supra Sound Angepasst
 
 
 
