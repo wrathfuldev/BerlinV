@@ -87,7 +87,15 @@ Deutsche Uniformen für:
 **Chat Update**
 - Alle nachrichten ohne / werden automatisch wie /ooc nachrichten geschrieben
 - Nachrichten blenden sich nach einer zeit aus
-
+- Neue Commands
+    /me <text>
+    /do <text>
+    /try <text>
+    /hide - verstecke den chat
+    /clear - lösche den chat
+    /ad - werbung schalten
+    /anon - anonyme anzeige schalten
+    /ooc <text>
 
 
 
