@@ -78,6 +78,7 @@ Deutsche Uniformen für:
 - Bank + Rechnungen Update
 - Crypto Markt 
 - Viele neue Apps
+- Taxi Rufen (mit Job verbunden)
 
 
 
