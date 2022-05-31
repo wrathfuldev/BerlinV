@@ -19,6 +19,7 @@ CHANGE LOG:
 Deutsche Uniformen für:
 - Polizei
 - SEK
+- Kripo
 
 
 
