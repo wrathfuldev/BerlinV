@@ -47,6 +47,7 @@ Deutsche Uniformen für:
     - Damit alle scripts sicher starten können oder sich mit der DB verbinden können
     -  Fixt damit auch das Spawnen als Michael
 - Feuerwerk + Shop Hinzufügen
+- Stuhl / Bett System hinzufügen
 
 
 
