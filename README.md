@@ -58,6 +58,7 @@ Deutsche Uniformen für:
 - Laden Überarbeitet
 - Neue Lebensmittel Hinzugefügt
 - Interaktions Menü Angepasst
+- Boss Menü Überarbeitet
 
 
 
