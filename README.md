@@ -82,6 +82,7 @@ Deutsche Uniformen für:
 - Bilder Fix
 
 **Mehr Logs gegen Teamler**
+- Zum überwachen von Admin Abuse bei IC commands
 
 
 
