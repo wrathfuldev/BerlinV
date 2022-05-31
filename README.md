@@ -9,6 +9,7 @@ CHANGE LOG:
 **Discord Änderungen**
 - Discord Rollen Änderungen
 - Ticket Bot Änderungen
+- Discord Music Bot Hinzugefügt für Stammtisch
 
 
 
