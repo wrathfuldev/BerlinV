@@ -7,6 +7,7 @@ CHANGE LOG:
 **31.05.2022**
 
 **Discord Änderungen**
+- Discord Rollen Änderungen
 
 
 
