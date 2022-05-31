@@ -81,6 +81,8 @@ Deutsche Uniformen für:
 - Taxi Rufen (mit Job verbunden)
 - Bilder Fix
 
+**Mehr Logs gegen Teamler**
+
 
 
 
