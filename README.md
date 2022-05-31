@@ -16,7 +16,7 @@ CHANGE LOG:
 - Discord RichPresence Update
 
 **Uniformen Update**
-
+Deutsche Uniformen für:
 
 
 
