@@ -86,6 +86,7 @@ Deutsche Uniformen für:
 
 **Chat Update**
 - Alle nachrichten ohne / werden automatisch wie /ooc nachrichten geschrieben
+- Nachrichten blenden sich nach einer zeit aus
 
 
 
