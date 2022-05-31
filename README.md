@@ -70,6 +70,8 @@ Deutsche Uniformen für:
 - vieles mehr!
 
 **Handy Update**
+- Handy wurde komplett überarbeitet
+
 
 
 
