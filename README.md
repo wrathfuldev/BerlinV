@@ -102,6 +102,7 @@ Deutsche Uniformen für:
 - Brabus850 Sound Angepasst
 - LaFerrari Sound Angepasst
 - F12 Sound Angepasst
+- Königsegg Zondar Sound Angepasst
 
 
 
