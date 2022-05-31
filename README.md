@@ -85,6 +85,8 @@ Deutsche Uniformen für:
 - Zum überwachen von Admin Abuse bei IC commands
 
 **Chat Update**
+- Alle nachrichten ohne / werden automatisch wie /ooc nachrichten geschrieben
+
 
 
 
