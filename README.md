@@ -75,6 +75,7 @@ Deutsche Uniformen für:
 - Flugmodus
 - FaceTime anrufen
 - Gruppenchats 
+- Bank + Rechnungen Update
 
 
 
