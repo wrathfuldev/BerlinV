@@ -84,6 +84,7 @@ Deutsche Uniformen für:
 **Mehr Logs gegen Teamler**
 - Zum überwachen von Admin Abuse bei IC commands
 
+**Chat Update**
 
 
 
