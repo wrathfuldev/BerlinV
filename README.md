@@ -73,6 +73,7 @@ Deutsche Uniformen für:
 - Handy wurde komplett überarbeitet
 - Streamer Modus
 - Flugmodus
+- FaceTime anrufen
 
 
 
