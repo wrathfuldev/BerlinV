@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **10.06.2022**
 
+**Steuer System Hinzugefügt**
+
 **Brieftasche Update**
 - Zurücksetzen der Kleidung (Hut, Brille)
 
