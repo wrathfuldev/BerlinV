@@ -10,6 +10,7 @@ CHANGE LOG:
 - Auto Steuer
 - Häuser Steuer
 - Konto Steuer
+- Wird jede 2 Stunden in Rechnung gestellt
 
 
 
