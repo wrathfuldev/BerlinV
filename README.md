@@ -7,6 +7,8 @@ CHANGE LOG:
 **10.06.2022**
 
 **Kofferraum Angepasst**
+- Velum mehr Platz 
+
 
 **Cayo Überarbeitet**
 - Drogenroute Hinzugefügt
