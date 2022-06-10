@@ -7,6 +7,8 @@ CHANGE LOG:
 **10.06.2022**
 
 **Brieftasche Update**
+- Zurücksetzen der Kleidung (Hut, Brille)
+
 
 **Custom Blips**
 - Justiz
