@@ -7,6 +7,8 @@ CHANGE LOG:
 **10.06.2022**
 
 **Custom Banner Hinzugefügt**
+- Autohof
+
 
 
 **31.05.2022**
