@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **10.06.2022**
 
+**Custom Blips**
+- 
+
 **Blips Update**
 - Blipanzahl Reduziert
 - Spieler können nun 37 custom Blips erstellen
