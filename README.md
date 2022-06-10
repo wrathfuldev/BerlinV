@@ -9,6 +9,7 @@ CHANGE LOG:
 **Blips Update**
 - Blipanzahl Reduziert
 - Spieler können nun 37 custom Blips erstellen
+- Bei mehr als 99 Blips kann es zu bugs kommen bei der Person
 
 
 **Custom Banner Hinzugefügt**
