@@ -7,7 +7,7 @@ CHANGE LOG:
 **10.06.2022**
 
 **Custom Blips**
-- 
+- Justiz
 
 **Blips Update**
 - Blipanzahl Reduziert
