@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **10.06.2022**
 
+**Kofferraum Angepasst**
+
 **Cayo Überarbeitet**
 - Drogenroute Hinzugefügt
 - Andere Routen Hinzugefügt
