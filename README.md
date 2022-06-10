@@ -9,6 +9,7 @@ CHANGE LOG:
 **Custom Blips**
 - Justiz
 - Polizei
+- ADAC
 
 
 **Blips Update**
