@@ -6,12 +6,15 @@ CHANGE LOG:
 
 **10.06.2022**
 
+**Brieftasche Update**
+
 **Custom Blips**
 - Justiz
 - Polizei
 - ADAC
 - Rotes Kreuz
 - Taxi Zentrale
+- KFC 
 
 
 **Blips Update**
