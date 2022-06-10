@@ -8,6 +8,8 @@ CHANGE LOG:
 
 **Custom Blips**
 - Justiz
+- Polizei
+
 
 **Blips Update**
 - Blipanzahl Reduziert
