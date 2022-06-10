@@ -10,6 +10,7 @@ CHANGE LOG:
 - Justiz
 - Polizei
 - ADAC
+- Rotes Kreuz
 
 
 **Blips Update**
