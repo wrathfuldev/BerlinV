@@ -11,6 +11,7 @@ CHANGE LOG:
 - Char Auswählen
 - Char Erstellen
 - Einreisen
+- Frisör/Kappen Shop
 
 
 
