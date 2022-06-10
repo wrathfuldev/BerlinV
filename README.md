@@ -9,6 +9,7 @@ CHANGE LOG:
 **Cayo Überarbeitet**
 - Drogenroute Hinzugefügt
 - Andere Routen Hinzugefügt
+- Brücke entfernt
 
 
 **Steuer System Hinzugefügt**
