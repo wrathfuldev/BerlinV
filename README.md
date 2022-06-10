@@ -8,6 +8,8 @@ CHANGE LOG:
 
 **Cayo Überarbeitet**
 - Drogenroute Hinzugefügt
+- Andere Routen Hinzugefügt
+
 
 **Steuer System Hinzugefügt**
 - Auto Steuer
