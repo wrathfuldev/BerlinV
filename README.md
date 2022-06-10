@@ -12,6 +12,7 @@ CHANGE LOG:
 - Char Erstellen
 - Einreisen
 - Frisör/Kappen Shop
+- Brieftasche 
 
 
 
