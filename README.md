@@ -11,6 +11,7 @@ CHANGE LOG:
 - Polizei
 - ADAC
 - Rotes Kreuz
+- Taxi Zentrale
 
 
 **Blips Update**
