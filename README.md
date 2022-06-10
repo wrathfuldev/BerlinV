@@ -11,6 +11,7 @@ CHANGE LOG:
 - Häuser Steuer
 - Konto Steuer
 - Wird jede 2 Stunden in Rechnung gestellt
+- Konto Steuerklasse wird je nach vermögen berechnet
 
 
 
