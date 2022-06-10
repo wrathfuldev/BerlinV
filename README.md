@@ -7,6 +7,7 @@ CHANGE LOG:
 **10.06.2022**
 
 **Blips Update**
+- Blipanzahl Reduziert
 
 
 **Custom Banner Hinzugefügt**
