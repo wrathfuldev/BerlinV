@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **10.06.2022**
 
+**Blips Update**
+
+
 **Custom Banner Hinzugefügt**
 - Autohof
 - Char Auswählen
@@ -13,7 +16,6 @@ CHANGE LOG:
 - Einreisen
 - Frisör/Kappen Shop
 - Brieftasche 
-
 
 
 **31.05.2022**
