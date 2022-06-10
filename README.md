@@ -8,6 +8,7 @@ CHANGE LOG:
 
 **Custom Banner Hinzugefügt**
 - Autohof
+- Char Auswählen
 
 
 
