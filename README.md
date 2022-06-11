@@ -7,6 +7,11 @@ CHANGE LOG:
 **10.06.2022**
 
 **Brieftasche Angepasst**
+- Lizenzen Kategorie für extra Lizenzen
+    - Polizei
+    - Justiz
+    - Rettung
+    - Waffenschein
 
 
 **10.06.2022**
