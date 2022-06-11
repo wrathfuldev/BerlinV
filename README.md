@@ -7,6 +7,9 @@ CHANGE LOG:
 **10.06.2022**
 
 **Brieftasche Angepasst**
+- Lizenzen Kategorie für extra Lizenzen
+
+
 
 **10.06.2022**
 
