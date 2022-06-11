@@ -6,6 +6,10 @@ CHANGE LOG:
 
 **10.06.2022**
 
+**Brieftasche Angepasst**
+
+**10.06.2022**
+
 **Kofferraum Angepasst**
 - Velum mehr Platz 
 
