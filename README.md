@@ -7,6 +7,7 @@ CHANGE LOG:
 **12.06.2022**
 
 **Straßen Update**
+- Europäische Straßen Hinzugefügt
 
 
 **Neue Items**
