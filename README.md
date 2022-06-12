@@ -10,6 +10,8 @@ CHANGE LOG:
 - Standart Autohaus Bilder Fix
 - Bootshop Bilder Fix
 - Flugshop Bilder Fix
+- Luxus Autohaus Bilder Fix
+
 
 
 **Cayo Perico Änderungen**
