@@ -8,6 +8,7 @@ CHANGE LOG:
 
 **Spieler Änderungen**
 - Nicht mehr imun gegen Explosionen
+- Nicht mehr imun gegen Feuer
 
 
 **Straßen Update**
