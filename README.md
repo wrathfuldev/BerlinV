@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **12.06.2022**
 
+**Fahrschule Änderungen**
+
+
 **Neues Abschlepp System**
 - Neu Überarbeitet geht auf einigen Abschleppern
 - Mehr Infos: https://app.gitbook.com/s/cCR0tFJAy3slnSikygQW/command-liste/auto-abschleppten-aufladen
