@@ -12,6 +12,7 @@ CHANGE LOG:
 - Redwood Zigarette
 - Redwood Schachtel
 - David Zigarre
+- Kubanische Zigarre
 
 
 
