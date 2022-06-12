@@ -10,6 +10,7 @@ CHANGE LOG:
 - Marlboro Zigaretten
 - Marlboro Schachtel
 - Redwood Zigarette
+- Redwood Schachtel
 
 
 
