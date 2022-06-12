@@ -6,13 +6,15 @@ CHANGE LOG:
 
 **12.06.2022**
 
+**Neue Items**
+
+
 **Autohäuser Änderungen**
 - Standart Autohaus Bilder Fix
 - Bootshop Bilder Fix
 - Flugshop Bilder Fix
 - Luxus Autohaus Bilder Fix
 - Luxus Autohaus neue Fahrzeuge 
-
 
 
 **Cayo Perico Änderungen**
