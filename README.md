@@ -6,14 +6,12 @@ CHANGE LOG:
 
 **12.06.2022**
 
+**Neues Abschlepp System**
+
 **Fahrschule Änderungen**
 - Job Hinzugefügt
 - Neuer Standort
 - Fahrschul Autos Angepasst
-
-**Neues Abschlepp System**
-- Neu Überarbeitet geht auf einigen Abschleppern
-- Mehr Infos: https://app.gitbook.com/s/cCR0tFJAy3slnSikygQW/command-liste/auto-abschleppten-aufladen
 
 **Spieler Änderungen**
 - Nicht mehr imun gegen Explosionen
