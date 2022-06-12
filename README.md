@@ -7,6 +7,7 @@ CHANGE LOG:
 **12.06.2022**
 Neue Waffe Hinzugefügt:
  - Blendgranaten (Flashbang)
+ - Können nur vom SEK General ausgeteilt werden 
 
 
 **10.06.2022**
