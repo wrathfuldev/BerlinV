@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **Beta Phasen Beginn**
 
+**12.06.2022**
+Neue Waffe Hinzugefügt:
+ - 
+
 **10.06.2022**
 
 **Brieftasche Angepasst**
