@@ -8,6 +8,7 @@ CHANGE LOG:
 
 **Fahrschule Änderungen**
 - Job Hinzugefügt
+- Neuer Standort
 
 **Neues Abschlepp System**
 - Neu Überarbeitet geht auf einigen Abschleppern
