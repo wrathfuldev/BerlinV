@@ -7,8 +7,7 @@ CHANGE LOG:
 **12.06.2022**
 
 **Neues Abschlepp System**
-- Neu Überarbeitet geht auf einigen Abschleppern
-- Mehr Infos: https://future-world.gitbook.io/wichtig/command-liste/auto-abschleppten-aufladen
+
 
 
 **Fahrschule Änderungen**
