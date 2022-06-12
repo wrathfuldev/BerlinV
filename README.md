@@ -11,6 +11,7 @@ CHANGE LOG:
 - Marlboro Schachtel
 - Redwood Zigarette
 - Redwood Schachtel
+- David Zigarre
 
 
 
