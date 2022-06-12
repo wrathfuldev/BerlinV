@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **12.06.2022**
 
+**Spieler Änderungen**
+
 **Straßen Update**
 - Europäische Straßen Hinzugefügt
 
