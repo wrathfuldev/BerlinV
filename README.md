@@ -6,6 +6,9 @@ CHANGE LOG:
 
 **12.06.2022**
 
+**Neues Abschlepp System**
+
+
 **Spieler Änderungen**
 - Nicht mehr imun gegen Explosionen
 - Nicht mehr imun gegen Feuer
