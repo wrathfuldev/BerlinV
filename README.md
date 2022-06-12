@@ -8,6 +8,7 @@ CHANGE LOG:
 
 **Neue Items**
 - Marlboro Zigaretten
+- Marlboro Schachtel
 
 
 
