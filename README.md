@@ -7,6 +7,7 @@ CHANGE LOG:
 **12.06.2022**
 
 **Cayo Perico Änderungen**
+- Cayo Perico Farblich Angepasst
 
 
 **Neue Waffe Hinzugefügt:**
