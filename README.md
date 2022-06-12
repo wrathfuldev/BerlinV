@@ -6,7 +6,8 @@ CHANGE LOG:
 
 **12.06.2022**
 Neue Waffe Hinzugefügt:
- - 
+ - Blendgranaten (Flashbang)
+
 
 **10.06.2022**
 
