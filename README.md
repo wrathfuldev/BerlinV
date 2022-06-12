@@ -5,7 +5,11 @@ CHANGE LOG:
 **Beta Phasen Beginn**
 
 **12.06.2022**
-Neue Waffe Hinzugefügt:
+
+**Cayo Perico Änderungen**
+
+
+**Neue Waffe Hinzugefügt:**
  - Blendgranaten (Flashbang)
  - Können nur vom SEK General ausgeteilt werden 
 
