@@ -7,6 +7,8 @@ CHANGE LOG:
 **12.06.2022**
 
 **Autohäuser Änderungen**
+- Standart Autohaus Bilder Fix
+
 
 **Cayo Perico Änderungen**
 - Cayo Perico Farblich Angepasst
