@@ -7,6 +7,7 @@ CHANGE LOG:
 **12.06.2022**
 
 **Neues Abschlepp System**
+- Neu Überarbeitet geht auf einigen Abschleppern
 
 
 **Spieler Änderungen**
