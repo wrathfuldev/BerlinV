@@ -8,7 +8,7 @@ CHANGE LOG:
 
 **Neues Abschlepp System**
 - Neu Überarbeitet geht auf einigen Abschleppern
-
+- Mehr Infos: https://bit.ly/3xJxxWi
 
 
 **Fahrschule Änderungen**
