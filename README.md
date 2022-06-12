@@ -11,6 +11,7 @@ CHANGE LOG:
 - Bootshop Bilder Fix
 - Flugshop Bilder Fix
 - Luxus Autohaus Bilder Fix
+- Luxus Autohaus neue Fahrzeuge 
 
 
 
