@@ -7,6 +7,8 @@ CHANGE LOG:
 **12.06.2022**
 
 **Spieler Änderungen**
+- Nicht mehr imun gegen Explosionen
+
 
 **Straßen Update**
 - Europäische Straßen Hinzugefügt
