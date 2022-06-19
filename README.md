@@ -7,6 +7,7 @@ CHANGE LOG:
 **19.06.2022**
 
 **PLZ NAVI Command Hinzugefügt**
+- Mehr Infos auf https://bit.ly/3bdiZ8G
 
 **12.06.2022**
 
