@@ -4,6 +4,10 @@ CHANGE LOG:
 
 **Beta Phasen Beginn**
 
+**19.06.2022**
+
+**PLZ NAVI Command Hinzugefügt**
+
 **12.06.2022**
 
 **Neues Abschlepp System**
