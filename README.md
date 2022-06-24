@@ -10,6 +10,7 @@ CHANGE LOG:
 - Todesuhrsache kann nurnoch Medic Feststellen
 - Blip Menü Übersetzt
 - Notify System Angepasst
+- Bus Fahrer Job Hinzugefügt
 
 
 
