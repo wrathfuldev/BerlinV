@@ -13,6 +13,7 @@ CHANGE LOG:
 - Bus Fahrer Job Hinzugefügt
 
 **Bewusstlos Screen Änderungen**
+- Dispatch Senden Text auf gleiche höhe wie rest
 
 
 
