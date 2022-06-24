@@ -8,7 +8,7 @@ CHANGE LOG:
 
 **F6 Menü Hinzugefügt**
 - Emote Quick Menü+Commands - zu Fuß
-
+- F6 - Auto Quick Menü - im Auto
 
 **Allgemeine Änderungen**
 - Todesuhrsache kann nurnoch Medic Feststellen
