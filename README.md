@@ -7,6 +7,8 @@ CHANGE LOG:
 **24.06.2022**
 
 **F6 Menü Hinzugefügt**
+- Emote Quick Menü+Commands - zu Fuß
+
 
 **Allgemeine Änderungen**
 - Todesuhrsache kann nurnoch Medic Feststellen
