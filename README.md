@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **24.06.2022**
 
+**F6 Menü Hinzugefügt**
+
 **Allgemeine Änderungen**
 - Todesuhrsache kann nurnoch Medic Feststellen
 - Blip Menü Übersetzt
