@@ -14,7 +14,7 @@ CHANGE LOG:
 
 **Bewusstlos Screen Änderungen**
 - Dispatch Senden Text auf gleiche höhe wie rest
-
+- Kampfunfähig Text position verschoben 
 
 
 **19.06.2022**
