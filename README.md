@@ -12,6 +12,8 @@ CHANGE LOG:
 - Notify System Angepasst
 - Bus Fahrer Job Hinzugefügt
 
+**Bewusstlos Screen Änderungen**
+
 
 
 **19.06.2022**
