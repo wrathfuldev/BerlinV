@@ -4,6 +4,11 @@ CHANGE LOG:
 
 **Beta Phasen Beginn**
 
+**24.06.2022**
+
+**Allgemeine Änderungen**
+
+
 **19.06.2022**
 
 **PLZ NAVI Command Hinzugefügt**
