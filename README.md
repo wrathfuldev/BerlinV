@@ -7,6 +7,7 @@ CHANGE LOG:
 **24.06.2022**
 
 **Allgemeine Änderungen**
+- Todesuhrsache kann nurnoch Medic Feststellen
 
 
 **19.06.2022**
