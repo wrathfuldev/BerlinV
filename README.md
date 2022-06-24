@@ -9,6 +9,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 - Todesuhrsache kann nurnoch Medic Feststellen
 - Blip Menü Übersetzt
+- Notify System Angepasst
 
 
 
