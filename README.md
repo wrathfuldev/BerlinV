@@ -11,7 +11,7 @@ CHANGE LOG:
 - Busfahrer neues Fahrzeug
 
 **Routen Änderungen**
-
+- Joints Verarbeiter Hinzugefügt
 
 
 **26.06.2022**
