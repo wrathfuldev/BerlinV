@@ -5,7 +5,7 @@ CHANGE LOG:
 **30.06.2022**
 
 **Leitstelle Fix**
-- 
+- Nachrichten fix
 
 **Mapping Änderungen**
 - Deutsche Schilder Hinzugefügt
