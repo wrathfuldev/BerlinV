@@ -10,6 +10,7 @@ Rebranding auf BerlinV
 - TeamSpeak Server Überarbeitet
 - Neue Website: https:berlinv.cc
 Assistent Bot Update
+- Wilkommen MSG Update
 
 
 **24.06.2022**
