@@ -2,7 +2,9 @@
 
 CHANGE LOG:
 
-**Beta Phasen Beginn**
+**26.06.2022**
+Rebranding auf BerlinV
+
 
 **24.06.2022**
 
@@ -236,7 +238,7 @@ Deutsche Uniformen für:
 - Honda AP2 Sound Angepasst
 - Custom Felgen Hinzugefügt 
 
-
+**Beta Phasen Beginn**
 
 
 **10.05.2022**
