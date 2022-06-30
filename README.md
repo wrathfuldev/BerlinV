@@ -12,6 +12,8 @@ CHANGE LOG:
 
 **Routen Änderungen**
 - Joints Verarbeiter Hinzugefügt
+- Neue Illegale Motoren Hinzugefügt 
+
 
 
 **26.06.2022**
