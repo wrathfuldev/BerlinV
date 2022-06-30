@@ -8,6 +8,7 @@ CHANGE LOG:
 - Deutsche Schilder Hinzugefügt
 
 **Neue Items**
+- Nachtsichtsgerät Hinzugefügt
 
 **29.06.2022**
 
