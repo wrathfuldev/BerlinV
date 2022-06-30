@@ -16,6 +16,7 @@ CHANGE LOG:
 
 **Neue Routen**
 - Nahkampfwaffen Route Hinzugefügt
+- Waffenaufsätze Route Hinzugefügt
 
 
 
