@@ -6,6 +6,7 @@ CHANGE LOG:
 Rebranding auf BerlinV
 - Staatsfraktionen Discord Überarbeiter
 - Team Discord Überarbeitet
+- Log Discord Überarbeitet
 
 
 **24.06.2022**
