@@ -12,6 +12,7 @@ Handling Angepasst:
 - RS5
 - GLE63s
 - S63
+Mule2 neues Modell Hinzugefügt
 
 **28.06.2022**
 
