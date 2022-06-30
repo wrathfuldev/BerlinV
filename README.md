@@ -4,6 +4,14 @@ CHANGE LOG:
 
 **Fahrzeug Änderungen**
 Handling Angepasst:
+- S2000
+- SQ8
+- Regera
+- M5f90
+- F12
+- RS5
+- GLE63s
+- S63
 
 **28.06.2022**
 
