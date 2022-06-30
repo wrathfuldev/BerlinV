@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 - GYM Überarbeitet
+- GYM neues Gebäude Hinzugefügt
 
 **27.06.2022**
 
