@@ -2,14 +2,21 @@
 
 CHANGE LOG:
 
+**27.06.2022**
+
+**Job Änderungen**
+
+
 **26.06.2022**
-Rebranding auf BerlinV
+
+**Rebranding auf BerlinV**
 - Staatsfraktionen Discord Überarbeiter
 - Team Discord Überarbeitet
 - Log Discord Überarbeitet
 - TeamSpeak Server Überarbeitet
 - Neue Website: https:berlinv.cc
-Assistent Bot Update
+
+**Assistent Bot Update**
 - Wilkommen MSG Update
 - Vorschlag System Hinzugefügt
 - Bot Commands Update
