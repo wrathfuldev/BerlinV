@@ -2,6 +2,10 @@
 
 CHANGE LOG:
 
+**28.06.2022**
+
+**Allgemeine Änderungen**
+
 **27.06.2022**
 
 **Job Änderungen**
