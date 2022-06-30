@@ -11,6 +11,7 @@ Rebranding auf BerlinV
 - Neue Website: https:berlinv.cc
 Assistent Bot Update
 - Wilkommen MSG Update
+- Vorschlag System Hinzugefügt
 
 
 **24.06.2022**
