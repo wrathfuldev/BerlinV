@@ -15,7 +15,7 @@ CHANGE LOG:
 - Neue Illegale Motoren Hinzugefügt 
 
 **Neue Routen**
-
+- Nahkampfwaffen Route Hinzugefügt
 
 
 
