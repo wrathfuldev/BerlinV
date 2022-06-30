@@ -7,6 +7,7 @@ CHANGE LOG:
 **Leitstelle Fix**
 - Nachrichten fix
 - Jutiz Hinzugefügt
+- Fahrschule Hinzugefügt
 
 **Mapping Änderungen**
 - Deutsche Schilder Hinzugefügt
