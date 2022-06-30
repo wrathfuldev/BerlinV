@@ -3,6 +3,7 @@
 CHANGE LOG:
 
 **Fahrzeug Änderungen**
+Handling Angepasst:
 
 **28.06.2022**
 
