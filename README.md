@@ -18,6 +18,7 @@ Tuner Abschlepper Hinzugefügt
 **Autohaus Änderungen**
 Abschlepper Kategorie Hinzugefügt
 - Tuner Abschlepper Hinzugefügt
+- Slamtruck Abschlepper Hinzugefügt
 
 
 **28.06.2022**
