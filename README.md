@@ -7,6 +7,7 @@ CHANGE LOG:
 **Mapping Änderungen**
 - Deutsche Schilder Hinzugefügt
 
+**Neue Items**
 
 **29.06.2022**
 
