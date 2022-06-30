@@ -2,6 +2,13 @@
 
 CHANGE LOG:
 
+**30.06.2022**
+
+**Mapping Änderungen**
+
+
+**29.06.2022**
+
 **Fahrzeug Änderungen**
 Handling Angepasst:
 - S2000
