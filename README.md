@@ -16,7 +16,7 @@ Mule2 neues Modell Hinzugefügt
 Tuner Abschlepper Hinzugefügt
 
 **Autohaus Änderungen**
-
+Abschlepper Kategorie Hinzugefügt
 
 
 **28.06.2022**
