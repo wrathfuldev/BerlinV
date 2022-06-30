@@ -12,6 +12,7 @@ Rebranding auf BerlinV
 Assistent Bot Update
 - Wilkommen MSG Update
 - Vorschlag System Hinzugefügt
+- Bot Commands Update
 
 
 **24.06.2022**
