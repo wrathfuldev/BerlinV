@@ -8,6 +8,7 @@ Rebranding auf BerlinV
 - Team Discord Überarbeitet
 - Log Discord Überarbeitet
 - TeamSpeak Server Überarbeitet
+- Neue Website: https:berlinv.cc
 
 
 **24.06.2022**
