@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Job Änderungen**
 - Müllabfuhr neues Fahrzeug
+- Müllabfuhr Job Angepasst
 
 
 **26.06.2022**
