@@ -5,6 +5,7 @@ CHANGE LOG:
 **28.06.2022**
 
 **Allgemeine Änderungen**
+- GYM Überarbeitet
 
 **27.06.2022**
 
