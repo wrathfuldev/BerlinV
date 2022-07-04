@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Drogen Verarbeiter Update**
 - Spot für Weed hinzugefügt
+- Spot für Opium hinzugefügt 
+
 
 **Allgemeine Änderungen**
 - Taxi Zentrale Reskin
