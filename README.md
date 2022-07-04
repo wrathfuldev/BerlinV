@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 - Taxi Zentrale Reskin
+- Polizei / Justiz VAN Hinzugefügt
+
 
 
 **30.06.2022**
