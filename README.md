@@ -14,6 +14,7 @@ CHANGE LOG:
 -- Todesursache können nun Medics und Polizisten feststellen 
 - Kleidertasche Hinzugefügt
 -- Speichere bis zu 5 outfits
+-- Lass deine Freunde auch Outfits aus deiner Tasche anziehen
 
 
 **30.06.2022**
