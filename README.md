@@ -8,6 +8,7 @@ CHANGE LOG:
 - ermöglicht craften nur für spezielle jobs
 - level system
 - level abhängiges crafting
+- erfolgschancen beim herstellen
 
 
 **Apotheke Änderungen**
