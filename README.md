@@ -5,6 +5,7 @@ CHANGE LOG:
 **04.07.2022**
 
 **Drogen Verarbeiter Update**
+- Spot für Weed hinzugefügt
 
 **Allgemeine Änderungen**
 - Taxi Zentrale Reskin
