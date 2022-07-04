@@ -10,7 +10,7 @@ CHANGE LOG:
 - Schlagen auf R taste entfernt
 -- Nicht mehr möglich Leute zu schlagen wenn man Kampfunfähig sind
 - Funktionierende Hebebühne beim ADAC Hinzugefügt
-
+- Todesursache Feststellen Überarbeitet
 
 
 **30.06.2022**
