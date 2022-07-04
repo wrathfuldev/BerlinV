@@ -12,6 +12,7 @@ CHANGE LOG:
 - Funktionierende Hebebühne beim ADAC Hinzugefügt
 - Todesursache Feststellen Überarbeitet
 -- Todesursache können nun Medics und Polizisten feststellen 
+- Kleidertasche Hinzugefügt
 
 
 
