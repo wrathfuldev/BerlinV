@@ -7,6 +7,7 @@ CHANGE LOG:
 **Drogen Verarbeiter Update**
 - Spot für Weed hinzugefügt
 - Spot für Opium hinzugefügt 
+- Spot für Kokain hinzugefügt
 
 
 **Allgemeine Änderungen**
