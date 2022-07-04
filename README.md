@@ -5,6 +5,7 @@ CHANGE LOG:
 **04.07.2022**
 
 **Neues Crafting/Herstellen System**
+- ermöglicht craften nur für spezielle jobs
 
 **Apotheke Änderungen**
 - Bandage Herstellen Update
