@@ -8,6 +8,7 @@ CHANGE LOG:
 - Taxi Zentrale Reskin
 - Polizei / Justiz VAN Hinzugefügt
 - Schlagen auf R taste entfernt
+-- Nicht mehr möglich Leute zu schlagen wenn man Kampfunfähig sind
 
 
 
