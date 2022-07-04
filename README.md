@@ -13,7 +13,7 @@ CHANGE LOG:
 - Todesursache Feststellen Überarbeitet
 -- Todesursache können nun Medics und Polizisten feststellen 
 - Kleidertasche Hinzugefügt
-
+-- Speichere bis zu 5 outfits
 
 
 **30.06.2022**
