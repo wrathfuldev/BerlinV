@@ -7,6 +7,7 @@ CHANGE LOG:
 **Neues Crafting/Herstellen System**
 - ermöglicht craften nur für spezielle jobs
 - level system
+- level abhängiges crafting
 
 
 **Apotheke Änderungen**
