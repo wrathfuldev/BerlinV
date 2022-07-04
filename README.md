@@ -5,6 +5,8 @@ CHANGE LOG:
 **04.07.2022**
 
 **Apotheke Änderungen**
+- Bandage Herstellen Update
+
 
 
 **Drogen Verarbeiter Update**
