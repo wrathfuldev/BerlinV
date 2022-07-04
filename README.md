@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **04.07.2022**
 
+**Neues Crafting/Herstellen System**
+
 **Apotheke Änderungen**
 - Bandage Herstellen Update
 - Medikit Herstellen Update
