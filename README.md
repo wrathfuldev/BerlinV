@@ -5,6 +5,7 @@ CHANGE LOG:
 **04.07.2022**
 
 **Allgemeine Änderungen**
+- Taxi Zentrale Reskin
 
 
 **30.06.2022**
