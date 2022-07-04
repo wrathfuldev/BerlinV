@@ -9,6 +9,8 @@ CHANGE LOG:
 - Polizei / Justiz VAN Hinzugefügt
 - Schlagen auf R taste entfernt
 -- Nicht mehr möglich Leute zu schlagen wenn man Kampfunfähig sind
+- Funktionierende Hebebühne beim ADAC Hinzugefügt
+
 
 
 **30.06.2022**
