@@ -7,6 +7,7 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 - Taxi Zentrale Reskin
 - Polizei / Justiz VAN Hinzugefügt
+- Schlagen auf R taste entfernt
 
 
 
