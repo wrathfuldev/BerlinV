@@ -2,6 +2,11 @@
 
 CHANGE LOG:
 
+**04.07.2022**
+
+**Allgemeine Änderungen**
+
+
 **30.06.2022**
 
 **Leitstelle Fix**
