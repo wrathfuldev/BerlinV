@@ -14,6 +14,9 @@ CHANGE LOG:
 - Kleidertasche Hinzugefügt
 -- Speichere bis zu 5 outfits
 -- Lass deine Freunde auch Outfits aus deiner Tasche anziehen
+- Lizenzen Fix
+-- Zeigt nun Name, Nachname, Geschlecht, Größe
+-- Personalausweis kann vor der Justiz gekauft werden
 
 **30.06.2022**
 
