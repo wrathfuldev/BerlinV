@@ -11,7 +11,9 @@ CHANGE LOG:
 -- Nicht mehr möglich Leute zu schlagen wenn man Kampfunfähig sind
 - Funktionierende Hebebühne beim ADAC Hinzugefügt
 - Todesursache Feststellen Überarbeitet
-
+- Kleidertasche Hinzugefügt
+-- Speichere bis zu 5 outfits
+-- Lass deine Freunde auch Outfits aus deiner Tasche anziehen
 
 **30.06.2022**
 
