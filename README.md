@@ -16,6 +16,7 @@ CHANGE LOG:
 -- Speichere bis zu 5 outfits
 -- Lass deine Freunde auch Outfits aus deiner Tasche anziehen
 - Lizenzen Fix
+-- Zeigt nun Name, Nachname, Geschlecht, Größe
 
 
 **30.06.2022**
