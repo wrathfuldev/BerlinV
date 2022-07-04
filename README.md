@@ -8,7 +8,7 @@ CHANGE LOG:
 - Spot für Weed hinzugefügt
 - Spot für Opium hinzugefügt 
 - Spot für Kokain hinzugefügt
-
+- Spot für Joinst Herstellen Uberarbeitet
 
 **Allgemeine Änderungen**
 - Taxi Zentrale Reskin
