@@ -15,6 +15,7 @@ CHANGE LOG:
 - Kleidertasche Hinzugefügt
 -- Speichere bis zu 5 outfits
 -- Lass deine Freunde auch Outfits aus deiner Tasche anziehen
+- Lizenzen Fix
 
 
 **30.06.2022**
