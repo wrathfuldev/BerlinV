@@ -10,6 +10,7 @@ CHANGE LOG:
 - LED Schilder hinzugefügt
     - Justiz, Pol, DrK, ADAC kann dort text ändern
 - Umsehen wenn man Ohnmächtig ist nun möglich
+- Scripts komprimiert von 255 auf 182
 
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
