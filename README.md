@@ -4,6 +4,9 @@ CHANGE LOG:
 
 **14.07.2022**
 
+**Cop/Medic/ADAC Net Update**
+
+
 **Inventar Änderungen**
 Fix: - Alle kofferräume / Handschufächer Spieler Inventar welches alte munition hat ht nun die neue
 - Beim Geben von Sachen sieht man nun die ID nicht den vollen Namen
