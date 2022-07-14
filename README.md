@@ -8,6 +8,7 @@ CHANGE LOG:
 - Munition Route Überarbeitet
     - Sammeln
     - Verarbeiter
+- Mehr Tattoos Hinzugefügt
 
 
 **04.07.2022**
