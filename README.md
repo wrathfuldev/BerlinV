@@ -7,6 +7,7 @@ CHANGE LOG:
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
 - Einbindung in die Datenbank
+- Man benötigt das tablet um es zu öffnen (außer man ist vor dem pc) 
 
 
 **Inventar Änderungen**
