@@ -5,6 +5,7 @@ CHANGE LOG:
 **14.07.2022**
 
 **Kleine Änderungen**
+- Waffenrouten Überarbeitet
 
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
