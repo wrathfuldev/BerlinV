@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**14.07.2022**
+
+**Allgemeine Änderungen**
+
+
+
 **04.07.2022**
 
 **Neues Crafting/Herstellen System**
