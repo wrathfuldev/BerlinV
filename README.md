@@ -5,7 +5,7 @@ CHANGE LOG:
 **14.07.2022**
 
 **Cop/Medic/ADAC Net Update**
-
+- Item hinzugefügt zum nutzen vom tablet
 
 **Inventar Änderungen**
 Fix: - Alle kofferräume / Handschufächer Spieler Inventar welches alte munition hat ht nun die neue
