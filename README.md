@@ -7,6 +7,8 @@ CHANGE LOG:
 **Kleine Änderungen**
 - Waffenrouten Überarbeitet
 - Deutsche Sirenen Hinzugefügt
+- LED Schilder hinzugefügt
+    - Justiz, Pol, DrK, ADAC kann dort text ändern
 
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
