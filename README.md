@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **14.07.2022**
 
+**Kleine Änderungen**
+
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
 - Einbindung in die Datenbank
