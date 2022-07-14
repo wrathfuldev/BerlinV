@@ -5,7 +5,9 @@ CHANGE LOG:
 **14.07.2022**
 
 **Allgemeine Änderungen**
-
+- Munition Route Überarbeitet
+    - Sammeln
+    - Verarbeiter
 
 
 **04.07.2022**
