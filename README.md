@@ -9,7 +9,7 @@ CHANGE LOG:
     - Sammeln
     - Verarbeiter
 - Mehr Tattoos Hinzugefügt
-
+- Vorbereitungen für Custom Tattoos
 
 **04.07.2022**
 
