@@ -6,6 +6,8 @@ CHANGE LOG:
 
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
+- Einbindung in die Datenbank
+
 
 **Inventar Änderungen**
 Fix: - Alle kofferräume / Handschufächer Spieler Inventar welches alte munition hat ht nun die neue
