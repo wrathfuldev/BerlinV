@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Kleine Änderungen**
 - Waffenrouten Überarbeitet
+- Deutsche Sirenen Hinzugefügt
 
 **Cop/Medic/ADAC Net Update**
 - Item hinzugefügt zum nutzen vom tablet
