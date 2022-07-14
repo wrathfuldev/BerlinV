@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Inventar Änderungen**
 Fix: - Alle kofferräume / Handschufächer Spieler Inventar welches alte munition hat ht nun die neue
+- Beim Geben von Sachen sieht man nun die ID nicht den vollen Namen
 
 **Allgemeine Änderungen**
 - Munition Route Überarbeitet
