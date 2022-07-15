@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 - Mehr Autohäuser Hinzugefügt
+- Motorradshop Hinzugefügt
 
 **14.07.2022**
 
