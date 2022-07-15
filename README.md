@@ -2,6 +2,10 @@
 
 CHANGE LOG:
 
+**15.07.2022**
+
+**Allgemeine Änderungen**
+
 **14.07.2022**
 
 **Kleine Änderungen**
