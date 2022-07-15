@@ -5,6 +5,7 @@ CHANGE LOG:
 **15.07.2022**
 
 **Allgemeine Änderungen**
+- Mehr Autohäuser Hinzugefügt
 
 **14.07.2022**
 
