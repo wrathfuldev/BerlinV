@@ -4,6 +4,9 @@ CHANGE LOG:
 
 **23.07.2022**
 
+**Guidebook Hinzugefügt**
+
+
 **Mapping Update**
 - DrK / Hauptfeuerwache MLO Angepasst
 - Vinewood Schild Ersetzt
