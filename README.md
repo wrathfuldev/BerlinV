@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Guidebook Hinzugefügt**
 - Zeigt das Regelwerk
+- Zeigt Guides
 
 
 **Mapping Update**
