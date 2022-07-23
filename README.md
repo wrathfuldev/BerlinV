@@ -7,6 +7,11 @@ CHANGE LOG:
 **Allgemeine Änderungen**
 - Justiz zugriff auf Jailmenu
 - Bewusstlos Screen Überarbeitet
+- Tattooshop Update 
+    - Custom Tattoos möglich
+    - Tattoos für Job sperren möglich
+    - Henna Tattoo möglich (geht nach 2 tagen ab)
+
 
 **15.07.2022**
 
