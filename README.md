@@ -11,6 +11,7 @@ CHANGE LOG:
     - Job Tipps
     - Command Tipps
     - Andere Tipps
+- Guidepunkte am Flughafen
 
 
 **Mapping Update**
