@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **23.07.2022**
 
+**Handling Update**
+
 **Allgemeine Änderungen**
 - Justiz zugriff auf Jailmenu
 - Bewusstlos Screen Überarbeitet
