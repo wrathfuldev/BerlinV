@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderungen**
 - Justiz zugriff auf Jailmenu
+- Bewusstlos Screen Überarbeitet
 
 **15.07.2022**
 
