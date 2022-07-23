@@ -5,6 +5,7 @@ CHANGE LOG:
 **23.07.2022**
 
 **Guidebook Hinzugefügt**
+- Zeigt das Regelwerk
 
 
 **Mapping Update**
