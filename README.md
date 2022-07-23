@@ -5,7 +5,7 @@ CHANGE LOG:
 **23.07.2022**
 
 **Mapping Update**
-
+- DrK / Hauptfeuerwache MLO Angepasst
 
 **Handling Update**
 - BMW 5er (Dienstwagen) Handling Angepasst
