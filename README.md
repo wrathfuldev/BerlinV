@@ -11,6 +11,9 @@ CHANGE LOG:
     - Custom Tattoos möglich
     - Tattoos für Job sperren möglich
     - Henna Tattoo möglich (geht nach 2 tagen ab)
+- Neues Prop Platzier System
+    - Items welche man Benutzt
+    - Wieder aufnehmbar
 
 
 **15.07.2022**
