@@ -7,6 +7,10 @@ CHANGE LOG:
 **Guidebook Hinzugefügt**
 - Zeigt das Regelwerk
 - Zeigt Guides
+- Zeigt Tipps
+    - Job Tipps
+    - Command Tipps
+    - Andere Tipps
 
 
 **Mapping Update**
