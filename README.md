@@ -5,6 +5,7 @@ CHANGE LOG:
 **23.07.2022**
 
 **Allgemeine Änderungen**
+- Justiz zugriff auf Jailmenu
 
 **15.07.2022**
 
