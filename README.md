@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Mapping Update**
 - DrK / Hauptfeuerwache MLO Angepasst
+- Vinewood Schild Ersetzt
 
 **Handling Update**
 - BMW 5er (Dienstwagen) Handling Angepasst
