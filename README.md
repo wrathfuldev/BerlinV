@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **25.07.22**
 
+**Mapping Update**
+
 **Allgemeine Änderunen**
 - Sperrzone Überarbeitet
 - Neue Custom Tattoos Hinzugefügt
