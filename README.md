@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **25.07.22**
 
+**Änderung für neue Spieler**
+
 **Fahrzeug Änderungen**
 - G Klasse Charite Update
 - Porsche 718 Update
