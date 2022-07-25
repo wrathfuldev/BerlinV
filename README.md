@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Emotemenü Update**
 - Update Log Kategorie Entfernt
+- Übersetzt auf Deutsch
 
 **Änderung für neue Spieler**
 - Carhud Änderung
