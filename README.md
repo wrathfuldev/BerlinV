@@ -8,6 +8,7 @@ CHANGE LOG:
 - Garagen Häuschen
 - Feuerlöscher
 - Telefon
+- Mülltonnen
 
 **Allgemeine Änderunen**
 - Movement System Update
