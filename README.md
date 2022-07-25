@@ -5,6 +5,7 @@ CHANGE LOG:
 **25.07.22**
 
 **Mapping Update**
+- Fleeca Bank zu Sparkasse
 
 **Allgemeine Änderunen**
 - Sperrzone Überarbeitet
