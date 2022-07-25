@@ -2,6 +2,12 @@
 
 CHANGE LOG:
 
+**26.07.22**
+
+**Allgemeine Änderunen**
+
+
+
 **25.07.22**
 
 **Emotemenü Update**
