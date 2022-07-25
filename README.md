@@ -5,6 +5,8 @@ CHANGE LOG:
 **25.07.22**
 
 **Fahrzeug Änderungen**
+- G Klasse Charite Update
+- 
 
 **Mapping Update**
 - Fleeca Bank zu Sparkasse
