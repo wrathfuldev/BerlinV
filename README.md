@@ -6,7 +6,8 @@ CHANGE LOG:
 
 **Änderung für neue Spieler**
 - Carhud Änderung
-    -
+    - Navigation Deaktiviert
+    - Bei neuen Spielern ist Navigation Deaktiviert, dies können die auch selber einschalten
 
 **Fahrzeug Änderungen**
 - G Klasse Charite Update
