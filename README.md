@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **25.07.22**
 
+**Emotemenü Update**
+
 **Änderung für neue Spieler**
 - Carhud Änderung
     - Navigation Deaktiviert
