@@ -7,6 +7,7 @@ CHANGE LOG:
 **Emotemenü Update**
 - Update Log Kategorie Entfernt
 - Übersetzt auf Deutsch
+- Custom Menü Banner
 
 **Änderung für neue Spieler**
 - Carhud Änderung
