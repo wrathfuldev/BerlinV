@@ -5,6 +5,7 @@ CHANGE LOG:
 **26.07.22**
 
 **Mapping Update**
+- Garagen Häuschen
 
 **Allgemeine Änderunen**
 - Movement System Update
