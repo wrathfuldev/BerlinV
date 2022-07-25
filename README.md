@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Mapping Update**
 - Fleeca Bank zu Sparkasse
+- Charite Überarbeite
 
 **Allgemeine Änderunen**
 - Sperrzone Überarbeitet
