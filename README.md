@@ -7,6 +7,7 @@ CHANGE LOG:
 **Mapping Update**
 - Garagen Häuschen
 - Feuerlöscher
+- Telefon
 
 **Allgemeine Änderunen**
 - Movement System Update
