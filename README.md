@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderunen**
 - Sperrzone Überarbeitet
+- Neue Custom Tattoos Hinzugefügt
 
 **23.07.2022**
 
