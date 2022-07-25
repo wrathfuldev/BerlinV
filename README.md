@@ -2,6 +2,10 @@
 
 CHANGE LOG:
 
+**25.07.22**
+
+**Allgemeine Änderunen**
+
 **23.07.2022**
 
 **Guidebook Hinzugefügt**
