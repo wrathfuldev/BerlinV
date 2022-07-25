@@ -5,6 +5,7 @@ CHANGE LOG:
 **25.07.22**
 
 **Emotemenü Update**
+- Update Log Kategorie Entfernt
 
 **Änderung für neue Spieler**
 - Carhud Änderung
