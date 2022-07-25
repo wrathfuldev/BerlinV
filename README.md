@@ -8,6 +8,7 @@ CHANGE LOG:
 - Sperrzone Überarbeitet
 - Neue Custom Tattoos Hinzugefügt
 - Polizei Punkt für Zivil Fahrzeuge
+- Pokemon Sammelkarten Hinzugefügt
 
 **23.07.2022**
 
