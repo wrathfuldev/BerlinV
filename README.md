@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Allgemeine Änderunen**
 - Movement System Update
+- Tastaturbelegung Hilfstext Update
 
 
 **25.07.22**
