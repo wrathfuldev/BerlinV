@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **26.07.22**
 
+**Mapping Update**
+
 **Allgemeine Änderunen**
 - Movement System Update
 - Tastaturbelegung Hilfstext Update
