@@ -5,6 +5,7 @@ CHANGE LOG:
 **25.07.22**
 
 **Allgemeine Änderunen**
+- Sperrzone Überarbeitet
 
 **23.07.2022**
 
