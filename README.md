@@ -5,6 +5,8 @@ CHANGE LOG:
 **25.07.22**
 
 **Änderung für neue Spieler**
+- Carhud Änderung
+    -
 
 **Fahrzeug Änderungen**
 - G Klasse Charite Update
