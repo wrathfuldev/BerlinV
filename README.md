@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Fahrzeug Klauen Update**
 - Private Fahrzeuge nurnoch aufbrechbar mit Item
+- Frakfahrzeuge ist Scheibe einschlagbar
 
 **Garagen kleines Update**
 - Garagen Namen sind die PLZ nun
