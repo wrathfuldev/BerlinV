@@ -7,6 +7,7 @@ CHANGE LOG:
 **Garagen kleines Update**
 - Garagen Namen sind die PLZ nun
 - Alle Spielerautos zum Würfelpark gestellt
+- Vorbereitungen für Garagen Handy App
 
 **Mapping Update**
 - Garagen Häuschen
