@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **26.07.22**
 
+**Fahrzeug Klauen Update**
+
 **Garagen kleines Update**
 - Garagen Namen sind die PLZ nun
 - Alle Spielerautos zum Würfelpark gestellt
