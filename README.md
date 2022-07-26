@@ -6,6 +6,7 @@ CHANGE LOG:
 
 **Garagen kleines Update**
 - Garagen Namen sind die PLZ nun
+- Alle Spielerautos zum Würfelpark gestellt
 
 **Mapping Update**
 - Garagen Häuschen
