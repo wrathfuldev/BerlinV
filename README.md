@@ -5,6 +5,7 @@ CHANGE LOG:
 **26.07.22**
 
 **Fahrzeug Klauen Update**
+- Private Fahrzeuge nurnoch aufbrechbar mit Item
 
 **Garagen kleines Update**
 - Garagen Namen sind die PLZ nun
