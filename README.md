@@ -5,6 +5,7 @@ CHANGE LOG:
 **26.07.22**
 
 **Einsatzfahrzeuge Update**
+- US Funk Sounds Deaktiviert
 
 **Fahrzeug Klauen Update**
 - Private Fahrzeuge nurnoch aufbrechbar mit Item
