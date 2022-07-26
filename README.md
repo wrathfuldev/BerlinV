@@ -5,6 +5,7 @@ CHANGE LOG:
 **26.07.22**
 
 **Garagen kleines Update**
+- Garagen Namen sind die PLZ nun
 
 **Mapping Update**
 - Garagen Häuschen
