@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **26.07.22**
 
+**Garagen kleines Update**
+
 **Mapping Update**
 - Garagen Häuschen
 - Feuerlöscher
