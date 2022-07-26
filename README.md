@@ -4,6 +4,8 @@ CHANGE LOG:
 
 **26.07.22**
 
+**Einsatzfahrzeuge Update**
+
 **Fahrzeug Klauen Update**
 - Private Fahrzeuge nurnoch aufbrechbar mit Item
 - Frakfahrzeuge ist Scheibe einschlagbar
